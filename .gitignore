@@ -462,3 +462,8 @@
 !CoreMediaIO/md
 !CoreMediaIO/md/*
 
+!CoreMIDI/
+!CoreMIDI/finished_links.json
+!CoreMIDI/md
+!CoreMIDI/md/*
+
