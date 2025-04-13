@@ -372,3 +372,8 @@
 !CompositorServices/md
 !CompositorServices/md/*
 
+!Compression/
+!Compression/finished_links.json
+!Compression/md
+!Compression/md/*
+
