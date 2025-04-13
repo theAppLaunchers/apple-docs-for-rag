@@ -1377,3 +1377,8 @@
 !SiriKitCloudMedia/md
 !SiriKitCloudMedia/md/*
 
+!SKAdNetworkforWebAds/
+!SKAdNetworkforWebAds/finished_links.json
+!SKAdNetworkforWebAds/md
+!SKAdNetworkforWebAds/md/*
+
