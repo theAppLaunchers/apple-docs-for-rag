@@ -1627,3 +1627,8 @@
 !WatchKit/md
 !WatchKit/md/*
 
+!watchOS-Apps/
+!watchOS-Apps/finished_links.json
+!watchOS-Apps/md
+!watchOS-Apps/md/*
+
