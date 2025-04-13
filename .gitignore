@@ -437,3 +437,8 @@
 !CoreHID/md
 !CoreHID/md/*
 
+!coreimage/
+!coreimage/finished_links.json
+!coreimage/md
+!coreimage/md/*
+
