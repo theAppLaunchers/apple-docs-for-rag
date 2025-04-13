@@ -472,3 +472,8 @@
 !CoreML/md
 !CoreML/md/*
 
+!CoreMotion/
+!CoreMotion/finished_links.json
+!CoreMotion/md
+!CoreMotion/md/*
+
