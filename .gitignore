@@ -517,3 +517,8 @@
 !CoreWLAN/md
 !CoreWLAN/md/*
 
+!CoreAudioKit/
+!CoreAudioKit/finished_links.json
+!CoreAudioKit/md
+!CoreAudioKit/md/*
+
