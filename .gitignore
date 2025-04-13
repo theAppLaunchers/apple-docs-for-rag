@@ -1287,3 +1287,8 @@
 !ScriptingBridge/md
 !ScriptingBridge/md/*
 
+!SCSIControllerDriverKit/
+!SCSIControllerDriverKit/finished_links.json
+!SCSIControllerDriverKit/md
+!SCSIControllerDriverKit/md/*
+
