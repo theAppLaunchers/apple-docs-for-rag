@@ -1187,3 +1187,8 @@
 !PushKit/md
 !PushKit/md/*
 
+!Quartz/
+!Quartz/finished_links.json
+!Quartz/md
+!Quartz/md/*
+
