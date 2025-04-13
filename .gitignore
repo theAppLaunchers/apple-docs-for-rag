@@ -1307,3 +1307,8 @@
 !Security/md
 !Security/md/*
 
+!SecurityFoundation/
+!SecurityFoundation/finished_links.json
+!SecurityFoundation/md
+!SecurityFoundation/md/*
+
