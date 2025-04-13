@@ -1087,3 +1087,8 @@
 !NotificationCenter/md
 !NotificationCenter/md/*
 
+!ObjectiveC/
+!ObjectiveC/finished_links.json
+!ObjectiveC/md
+!ObjectiveC/md/*
+
