@@ -892,3 +892,8 @@
 !LockedCameraCapture/md
 !LockedCameraCapture/md/*
 
+!mac-catalyst/
+!mac-catalyst/finished_links.json
+!mac-catalyst/md
+!mac-catalyst/md/*
+
