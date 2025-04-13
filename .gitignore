@@ -182,3 +182,8 @@
 !apple_search_ads/md
 !apple_search_ads/md/*
 
+!apple-silicon/
+!apple-silicon/finished_links.json
+!apple-silicon/md
+!apple-silicon/md/*
+
