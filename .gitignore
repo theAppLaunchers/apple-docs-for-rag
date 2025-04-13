@@ -1337,3 +1337,8 @@
 !ServiceManagement/md
 !ServiceManagement/md/*
 
+!ShaderGraph/
+!ShaderGraph/finished_links.json
+!ShaderGraph/md
+!ShaderGraph/md/*
+
