@@ -522,3 +522,8 @@
 !CoreAudioKit/md
 !CoreAudioKit/md/*
 
+!CreateML/
+!CreateML/finished_links.json
+!CreateML/md
+!CreateML/md/*
+
