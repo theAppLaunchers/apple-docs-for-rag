@@ -557,3 +557,8 @@
 !DeviceActivity/md
 !DeviceActivity/md/*
 
+!DeviceManagement/
+!DeviceManagement/finished_links.json
+!DeviceManagement/md
+!DeviceManagement/md/*
+
