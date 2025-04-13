@@ -1562,3 +1562,8 @@
 !UserNotifications/md
 !UserNotifications/md/*
 
+!UserNotificationsUI/
+!UserNotificationsUI/finished_links.json
+!UserNotificationsUI/md
+!UserNotificationsUI/md/*
+
