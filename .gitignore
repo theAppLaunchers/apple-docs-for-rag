@@ -1547,3 +1547,8 @@
 !UniformTypeIdentifiers/md
 !UniformTypeIdentifiers/md/*
 
+!USBDriverKit/
+!USBDriverKit/finished_links.json
+!USBDriverKit/md
+!USBDriverKit/md/*
+
