@@ -1162,3 +1162,8 @@
 !playgroundsupport/md
 !playgroundsupport/md/*
 
+!PreferencePanes/
+!PreferencePanes/finished_links.json
+!PreferencePanes/md
+!PreferencePanes/md/*
+
