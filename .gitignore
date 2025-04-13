@@ -1312,3 +1312,8 @@
 !SecurityFoundation/md
 !SecurityFoundation/md/*
 
+!SecurityInterface/
+!SecurityInterface/finished_links.json
+!SecurityInterface/md
+!SecurityInterface/md/*
+
