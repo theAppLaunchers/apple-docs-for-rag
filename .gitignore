@@ -1527,3 +1527,8 @@
 !TVML/md
 !TVML/md/*
 
+!tvos-release-notes/
+!tvos-release-notes/finished_links.json
+!tvos-release-notes/md
+!tvos-release-notes/md/*
+
