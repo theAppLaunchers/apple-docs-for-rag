@@ -292,3 +292,8 @@
 !BrowserKit/md
 !BrowserKit/md/*
 
+!BundleResources/
+!BundleResources/finished_links.json
+!BundleResources/md
+!BundleResources/md/*
+
