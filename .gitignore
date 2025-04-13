@@ -997,3 +997,8 @@
 !Messages/md
 !Messages/md/*
 
+!Metal/
+!Metal/finished_links.json
+!Metal/md
+!Metal/md/*
+
