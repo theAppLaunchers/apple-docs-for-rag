@@ -352,3 +352,8 @@
 !CloudKitJS/md
 !CloudKitJS/md/*
 
+!Collaboration/
+!Collaboration/finished_links.json
+!Collaboration/md
+!Collaboration/md/*
+
