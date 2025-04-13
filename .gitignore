@@ -1167,3 +1167,8 @@
 !PreferencePanes/md
 !PreferencePanes/md/*
 
+!professional_video_applications/
+!professional_video_applications/finished_links.json
+!professional_video_applications/md
+!professional_video_applications/md/*
+
