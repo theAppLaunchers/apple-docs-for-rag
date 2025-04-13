@@ -262,3 +262,8 @@
 !AVRouting/md
 !AVRouting/md/*
 
+!BackgroundAssets/
+!BackgroundAssets/finished_links.json
+!BackgroundAssets/md
+!BackgroundAssets/md/*
+
