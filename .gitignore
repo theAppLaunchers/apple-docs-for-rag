@@ -592,3 +592,8 @@
 !Distributed/md
 !Distributed/md/*
 
+!dnssd/
+!dnssd/finished_links.json
+!dnssd/md
+!dnssd/md/*
+
