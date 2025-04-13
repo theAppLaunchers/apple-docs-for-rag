@@ -307,3 +307,8 @@
 !CarKey/md
 !CarKey/md/*
 
+!CarPlay/
+!CarPlay/finished_links.json
+!CarPlay/md
+!CarPlay/md/*
+
