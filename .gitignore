@@ -1352,3 +1352,8 @@
 !ShazamKit/md
 !ShazamKit/md/*
 
+!SigninwithApple/
+!SigninwithApple/finished_links.json
+!SigninwithApple/md
+!SigninwithApple/md/*
+
