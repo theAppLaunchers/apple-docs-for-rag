@@ -747,3 +747,8 @@
 !HIDDriverKit/md
 !HIDDriverKit/md/*
 
+!HomeKit/
+!HomeKit/finished_links.json
+!HomeKit/md
+!HomeKit/md/*
+
