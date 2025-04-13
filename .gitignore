@@ -667,3 +667,8 @@
 !FamilyControls/md
 !FamilyControls/md/*
 
+!FileProvider/
+!FileProvider/finished_links.json
+!FileProvider/md
+!FileProvider/md/*
+
