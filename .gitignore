@@ -1637,3 +1637,8 @@
 !watchos-release-notes/md
 !watchos-release-notes/md/*
 
+!WeatherKit/
+!WeatherKit/finished_links.json
+!WeatherKit/md
+!WeatherKit/md/*
+
