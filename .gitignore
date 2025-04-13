@@ -722,3 +722,8 @@
 !GameplayKit/md
 !GameplayKit/md/*
 
+!GLKit/
+!GLKit/finished_links.json
+!GLKit/md
+!GLKit/md/*
+
