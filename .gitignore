@@ -1202,3 +1202,8 @@
 !QuickLookThumbnailing/md
 !QuickLookThumbnailing/md/*
 
+!QuickLookUI/
+!QuickLookUI/finished_links.json
+!QuickLookUI/md
+!QuickLookUI/md/*
+
