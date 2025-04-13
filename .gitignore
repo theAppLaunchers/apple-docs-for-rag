@@ -212,3 +212,8 @@
 !AudioToolbox/md
 !AudioToolbox/md/*
 
+!AudioUnit/
+!AudioUnit/finished_links.json
+!AudioUnit/md
+!AudioUnit/md/*
+
