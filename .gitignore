@@ -297,3 +297,8 @@
 !BundleResources/md
 !BundleResources/md/*
 
+!CallKit/
+!CallKit/finished_links.json
+!CallKit/md
+!CallKit/md/*
+
