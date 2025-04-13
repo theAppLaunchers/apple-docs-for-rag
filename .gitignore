@@ -1622,3 +1622,8 @@
 !WatchConnectivity/md
 !WatchConnectivity/md/*
 
+!WatchKit/
+!WatchKit/finished_links.json
+!WatchKit/md
+!WatchKit/md/*
+
