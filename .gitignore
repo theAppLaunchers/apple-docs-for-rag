@@ -402,3 +402,8 @@
 !CoreAudio/md
 !CoreAudio/md/*
 
+!CoreAudioTypes/
+!CoreAudioTypes/finished_links.json
+!CoreAudioTypes/md
+!CoreAudioTypes/md/*
+
