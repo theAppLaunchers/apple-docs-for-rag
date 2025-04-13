@@ -22,3 +22,8 @@
 !AccountOrganizationalDataSharing/md
 !AccountOrganizationalDataSharing/md/*
 
+!AccountDataTransfer/
+!AccountDataTransfer/finished_links.json
+!AccountDataTransfer/md
+!AccountDataTransfer/md/*
+
