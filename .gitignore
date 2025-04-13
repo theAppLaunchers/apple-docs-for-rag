@@ -482,3 +482,8 @@
 !CoreNFC/md
 !CoreNFC/md/*
 
+!coreservices/
+!coreservices/finished_links.json
+!coreservices/md
+!coreservices/md/*
+
