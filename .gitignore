@@ -1567,3 +1567,8 @@
 !UserNotificationsUI/md
 !UserNotificationsUI/md/*
 
+!VideoSubscriberAccount/
+!VideoSubscriberAccount/finished_links.json
+!VideoSubscriberAccount/md
+!VideoSubscriberAccount/md/*
+
