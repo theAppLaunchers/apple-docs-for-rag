@@ -1267,3 +1267,8 @@
 !SceneKit/md
 !SceneKit/md/*
 
+!ScreenSaver/
+!ScreenSaver/finished_links.json
+!ScreenSaver/md
+!ScreenSaver/md/*
+
