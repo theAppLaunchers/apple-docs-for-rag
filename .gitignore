@@ -1442,3 +1442,8 @@
 !swift-playgrounds/md
 !swift-playgrounds/md/*
 
+!Testing/
+!Testing/finished_links.json
+!Testing/md
+!Testing/md/*
+
