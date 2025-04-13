@@ -1437,3 +1437,8 @@
 !swift-packages/md
 !swift-packages/md/*
 
+!swift-playgrounds/
+!swift-playgrounds/finished_links.json
+!swift-playgrounds/md
+!swift-playgrounds/md/*
+
