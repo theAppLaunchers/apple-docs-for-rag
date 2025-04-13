@@ -1542,3 +1542,8 @@
 !UIKit/md
 !UIKit/md/*
 
+!UniformTypeIdentifiers/
+!UniformTypeIdentifiers/finished_links.json
+!UniformTypeIdentifiers/md
+!UniformTypeIdentifiers/md/*
+
