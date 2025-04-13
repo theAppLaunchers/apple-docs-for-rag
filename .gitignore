@@ -407,3 +407,8 @@
 !CoreAudioTypes/md
 !CoreAudioTypes/md/*
 
+!CoreBluetooth/
+!CoreBluetooth/finished_links.json
+!CoreBluetooth/md
+!CoreBluetooth/md/*
+
