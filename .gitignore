@@ -1482,3 +1482,8 @@
 !SystemExtensions/md
 !SystemExtensions/md/*
 
+!TabletopKit/
+!TabletopKit/finished_links.json
+!TabletopKit/md
+!TabletopKit/md/*
+
