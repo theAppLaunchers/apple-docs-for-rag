@@ -702,3 +702,8 @@
 !foundation/md
 !foundation/md/*
 
+!FSKit/
+!FSKit/finished_links.json
+!FSKit/md
+!FSKit/md/*
+
