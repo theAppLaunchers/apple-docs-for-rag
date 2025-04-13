@@ -1682,3 +1682,8 @@
 !Xcode-Release-Notes/md
 !Xcode-Release-Notes/md/*
 
+!XcodeKit/
+!XcodeKit/finished_links.json
+!XcodeKit/md
+!XcodeKit/md/*
+
