@@ -232,3 +232,8 @@
 !AutomatedDeviceEnrollment/md
 !AutomatedDeviceEnrollment/md/*
 
+!AutomaticAssessmentConfiguration/
+!AutomaticAssessmentConfiguration/finished_links.json
+!AutomaticAssessmentConfiguration/md
+!AutomaticAssessmentConfiguration/md/*
+
