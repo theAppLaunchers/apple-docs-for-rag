@@ -202,3 +202,8 @@
 !AssetsLibrary/md
 !AssetsLibrary/md/*
 
+!Assignables/
+!Assignables/finished_links.json
+!Assignables/md
+!Assignables/md/*
+
