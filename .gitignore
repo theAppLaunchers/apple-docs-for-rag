@@ -797,3 +797,8 @@
 !IOBluetooth/md
 !IOBluetooth/md/*
 
+!IOBluetoothUI/
+!IOBluetoothUI/finished_links.json
+!IOBluetoothUI/md
+!IOBluetoothUI/md/*
+
