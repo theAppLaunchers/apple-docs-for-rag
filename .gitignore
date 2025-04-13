@@ -1197,3 +1197,8 @@
 !QuickLook/md
 !QuickLook/md/*
 
+!QuickLookThumbnailing/
+!QuickLookThumbnailing/finished_links.json
+!QuickLookThumbnailing/md
+!QuickLookThumbnailing/md/*
+
