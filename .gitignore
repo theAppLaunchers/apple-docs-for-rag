@@ -612,3 +612,8 @@
 !EndpointSecurity/md
 !EndpointSecurity/md/*
 
+!EnterpriseProgramAPI/
+!EnterpriseProgramAPI/finished_links.json
+!EnterpriseProgramAPI/md
+!EnterpriseProgramAPI/md/*
+
