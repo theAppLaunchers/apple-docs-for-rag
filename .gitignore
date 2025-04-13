@@ -912,3 +912,8 @@
 !ManagedAppDistribution/md
 !ManagedAppDistribution/md/*
 
+!ManagedSettings/
+!ManagedSettings/finished_links.json
+!ManagedSettings/md
+!ManagedSettings/md/*
+
