@@ -237,3 +237,8 @@
 !AutomaticAssessmentConfiguration/md
 !AutomaticAssessmentConfiguration/md/*
 
+!Automator/
+!Automator/finished_links.json
+!Automator/md
+!Automator/md/*
+
