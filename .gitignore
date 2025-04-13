@@ -487,3 +487,8 @@
 !coreservices/md
 !coreservices/md/*
 
+!CoreSpotlight/
+!CoreSpotlight/finished_links.json
+!CoreSpotlight/md
+!CoreSpotlight/md/*
+
