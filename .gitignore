@@ -332,3 +332,8 @@
 !ClassKit/md
 !ClassKit/md/*
 
+!ClassKitCatalogAPI/
+!ClassKitCatalogAPI/finished_links.json
+!ClassKitCatalogAPI/md
+!ClassKitCatalogAPI/md/*
+
