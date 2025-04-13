@@ -682,3 +682,8 @@
 !FinanceKit/md
 !FinanceKit/md/*
 
+!FinanceKitUI/
+!FinanceKitUI/finished_links.json
+!FinanceKitUI/md
+!FinanceKitUI/md/*
+
