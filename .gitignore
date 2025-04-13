@@ -92,3 +92,8 @@
 !AppIntents/md
 !AppIntents/md/*
 
+!AppLicenseDeliverySDK/
+!AppLicenseDeliverySDK/finished_links.json
+!AppLicenseDeliverySDK/md
+!AppLicenseDeliverySDK/md/*
+
