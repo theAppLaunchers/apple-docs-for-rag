@@ -1112,3 +1112,8 @@
 !OSLog/md
 !OSLog/md/*
 
+!PackageDescription/
+!PackageDescription/finished_links.json
+!PackageDescription/md
+!PackageDescription/md/*
+
