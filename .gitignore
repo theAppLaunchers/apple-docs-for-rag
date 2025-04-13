@@ -787,3 +787,8 @@
 !InputMethodKit/md
 !InputMethodKit/md/*
 
+!installer_js/
+!installer_js/finished_links.json
+!installer_js/md
+!installer_js/md/*
+
