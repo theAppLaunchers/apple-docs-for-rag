@@ -952,3 +952,8 @@
 !Matter/md
 !Matter/md/*
 
+!MatterSupport/
+!MatterSupport/finished_links.json
+!MatterSupport/md
+!MatterSupport/md/*
+
