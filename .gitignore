@@ -1702,3 +1702,8 @@
 !XCUIAutomation/md
 !XCUIAutomation/md/*
 
+!XPC/
+!XPC/finished_links.json
+!XPC/md
+!XPC/md/*
+
