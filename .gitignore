@@ -862,3 +862,8 @@
 !LightweightCodeRequirements/md
 !LightweightCodeRequirements/md/*
 
+!LinkPresentation/
+!LinkPresentation/finished_links.json
+!LinkPresentation/md
+!LinkPresentation/md/*
+
