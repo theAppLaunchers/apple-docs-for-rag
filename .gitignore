@@ -987,3 +987,8 @@
 !MediaExtension/md
 !MediaExtension/md/*
 
+!MessageUI/
+!MessageUI/finished_links.json
+!MessageUI/md
+!MessageUI/md/*
+
