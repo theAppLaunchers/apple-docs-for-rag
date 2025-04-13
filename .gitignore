@@ -672,3 +672,8 @@
 !FileProvider/md
 !FileProvider/md/*
 
+!FileProviderUI/
+!FileProviderUI/finished_links.json
+!FileProviderUI/md
+!FileProviderUI/md/*
+
