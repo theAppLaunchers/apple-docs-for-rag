@@ -562,3 +562,8 @@
 !DeviceManagement/md
 !DeviceManagement/md/*
 
+!DeviceCheck/
+!DeviceCheck/finished_links.json
+!DeviceCheck/md
+!DeviceCheck/md/*
+
