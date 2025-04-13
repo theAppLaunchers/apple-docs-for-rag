@@ -1102,3 +1102,8 @@
 !OpenDirectory/md
 !OpenDirectory/md/*
 
+!os/
+!os/finished_links.json
+!os/md
+!os/md/*
+
