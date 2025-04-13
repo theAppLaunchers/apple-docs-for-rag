@@ -752,3 +752,8 @@
 !HomeKit/md
 !HomeKit/md/*
 
+!HTTP-Live-Streaming/
+!HTTP-Live-Streaming/finished_links.json
+!HTTP-Live-Streaming/md
+!HTTP-Live-Streaming/md/*
+
