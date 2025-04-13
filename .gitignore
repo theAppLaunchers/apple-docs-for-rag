@@ -417,3 +417,8 @@
 !CoreData/md
 !CoreData/md/*
 
+!CoreFoundation/
+!CoreFoundation/finished_links.json
+!CoreFoundation/md
+!CoreFoundation/md/*
+
