@@ -907,3 +907,8 @@
 !MailKit/md
 !MailKit/md/*
 
+!ManagedAppDistribution/
+!ManagedAppDistribution/finished_links.json
+!ManagedAppDistribution/md
+!ManagedAppDistribution/md/*
+
