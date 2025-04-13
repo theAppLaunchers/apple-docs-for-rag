@@ -1447,3 +1447,8 @@
 !Testing/md
 !Testing/md/*
 
+!SwiftData/
+!SwiftData/finished_links.json
+!SwiftData/md
+!SwiftData/md/*
+
