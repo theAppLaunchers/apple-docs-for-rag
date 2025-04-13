@@ -327,3 +327,8 @@
 !CKToolJS/md
 !CKToolJS/md/*
 
+!ClassKit/
+!ClassKit/finished_links.json
+!ClassKit/md
+!ClassKit/md/*
+
