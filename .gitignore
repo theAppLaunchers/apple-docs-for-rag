@@ -582,3 +582,8 @@
 !DiskArbitration/md
 !DiskArbitration/md/*
 
+!Dispatch/
+!Dispatch/finished_links.json
+!Dispatch/md
+!Dispatch/md/*
+
