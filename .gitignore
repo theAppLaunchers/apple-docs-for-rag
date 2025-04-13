@@ -1017,3 +1017,8 @@
 !MetalFX/md
 !MetalFX/md/*
 
+!MetalKit/
+!MetalKit/finished_links.json
+!MetalKit/md
+!MetalKit/md/*
+
