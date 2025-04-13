@@ -102,3 +102,8 @@
 !AppStoreConnectAPI/md
 !AppStoreConnectAPI/md/*
 
+!appstorereceipts/
+!appstorereceipts/finished_links.json
+!appstorereceipts/md
+!appstorereceipts/md/*
+
