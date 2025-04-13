@@ -207,3 +207,8 @@
 !Assignables/md
 !Assignables/md/*
 
+!AudioToolbox/
+!AudioToolbox/finished_links.json
+!AudioToolbox/md
+!AudioToolbox/md/*
+
