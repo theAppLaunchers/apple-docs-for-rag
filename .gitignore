@@ -1367,3 +1367,8 @@
 !SiriEventSuggestionsMarkup/md
 !SiriEventSuggestionsMarkup/md/*
 
+!SiriKit/
+!SiriKit/finished_links.json
+!SiriKit/md
+!SiriKit/md/*
+
