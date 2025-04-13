@@ -1382,3 +1382,8 @@
 !SKAdNetworkforWebAds/md
 !SKAdNetworkforWebAds/md/*
 
+!IdentityLookup/
+!IdentityLookup/finished_links.json
+!IdentityLookup/md
+!IdentityLookup/md/*
+
