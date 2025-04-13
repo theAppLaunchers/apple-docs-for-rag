@@ -567,3 +567,8 @@
 !DeviceCheck/md
 !DeviceCheck/md/*
 
+!DeviceDiscoveryExtension/
+!DeviceDiscoveryExtension/finished_links.json
+!DeviceDiscoveryExtension/md
+!DeviceDiscoveryExtension/md/*
+
