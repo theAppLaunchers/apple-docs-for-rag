@@ -1042,3 +1042,8 @@
 !ModelIO/md
 !ModelIO/md/*
 
+!MultipeerConnectivity/
+!MultipeerConnectivity/finished_links.json
+!MultipeerConnectivity/md
+!MultipeerConnectivity/md/*
+
