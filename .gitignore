@@ -347,3 +347,8 @@
 !CloudKit/md
 !CloudKit/md/*
 
+!CloudKitJS/
+!CloudKitJS/finished_links.json
+!CloudKitJS/md
+!CloudKitJS/md/*
+
