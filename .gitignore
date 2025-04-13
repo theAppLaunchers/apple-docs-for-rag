@@ -1597,3 +1597,8 @@
 !visionOS/md
 !visionOS/md/*
 
+!visionos-release-notes/
+!visionos-release-notes/finished_links.json
+!visionos-release-notes/md
+!visionos-release-notes/md/*
+
