@@ -127,3 +127,8 @@
 !AppKit/md
 !AppKit/md/*
 
+!AppleArchive/
+!AppleArchive/finished_links.json
+!AppleArchive/md
+!AppleArchive/md/*
+
