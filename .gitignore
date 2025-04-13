@@ -812,3 +812,8 @@
 !ios-ipados-release-notes/md
 !ios-ipados-release-notes/md/*
 
+!IOSurface/
+!IOSurface/finished_links.json
+!IOSurface/md
+!IOSurface/md/*
+
