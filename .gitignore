@@ -32,3 +32,8 @@
 !Accounts/md
 !Accounts/md/*
 
+!ActivityKit/
+!ActivityKit/finished_links.json
+!ActivityKit/md
+!ActivityKit/md/*
+
