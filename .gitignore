@@ -602,3 +602,8 @@
 !DockKit/md
 !DockKit/md/*
 
+!driverkit/
+!driverkit/finished_links.json
+!driverkit/md
+!driverkit/md/*
+
