@@ -1132,3 +1132,8 @@
 !PCIDriverKit/md
 !PCIDriverKit/md/*
 
+!PDFKit/
+!PDFKit/finished_links.json
+!PDFKit/md
+!PDFKit/md/*
+
