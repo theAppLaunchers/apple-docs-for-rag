@@ -572,3 +572,8 @@
 !DeviceDiscoveryExtension/md
 !DeviceDiscoveryExtension/md/*
 
+!DeviceDiscoveryUI/
+!DeviceDiscoveryUI/finished_links.json
+!DeviceDiscoveryUI/md
+!DeviceDiscoveryUI/md/*
+
