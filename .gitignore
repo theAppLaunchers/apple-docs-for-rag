@@ -132,3 +132,8 @@
 !AppleArchive/md
 !AppleArchive/md/*
 
+!CryptoKit/
+!CryptoKit/finished_links.json
+!CryptoKit/md
+!CryptoKit/md/*
+
