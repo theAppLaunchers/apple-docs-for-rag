@@ -1027,3 +1027,8 @@
 !MetricKit/md
 !MetricKit/md/*
 
+!MIDIDriverKit/
+!MIDIDriverKit/finished_links.json
+!MIDIDriverKit/md
+!MIDIDriverKit/md/*
+
