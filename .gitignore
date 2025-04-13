@@ -1607,3 +1607,8 @@
 !vmnet/md
 !vmnet/md/*
 
+!WalletOrders/
+!WalletOrders/finished_links.json
+!WalletOrders/md
+!WalletOrders/md/*
+
