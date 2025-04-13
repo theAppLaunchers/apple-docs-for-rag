@@ -502,3 +502,8 @@
 !CoreText/md
 !CoreText/md/*
 
+!CoreTransferable/
+!CoreTransferable/finished_links.json
+!CoreTransferable/md
+!CoreTransferable/md/*
+
