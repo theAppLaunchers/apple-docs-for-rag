@@ -1327,3 +1327,8 @@
 !SensorKit/md
 !SensorKit/md/*
 
+!SerialDriverKit/
+!SerialDriverKit/finished_links.json
+!SerialDriverKit/md
+!SerialDriverKit/md/*
+
