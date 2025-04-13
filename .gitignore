@@ -172,3 +172,8 @@
 !ApplePayWebMerchantRegistrationAPI/md
 !ApplePayWebMerchantRegistrationAPI/md/*
 
+!ApplePencil/
+!ApplePencil/finished_links.json
+!ApplePencil/md
+!ApplePencil/md/*
+
