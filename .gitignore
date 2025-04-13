@@ -1362,3 +1362,8 @@
 !simd/md
 !simd/md/*
 
+!SiriEventSuggestionsMarkup/
+!SiriEventSuggestionsMarkup/finished_links.json
+!SiriEventSuggestionsMarkup/md
+!SiriEventSuggestionsMarkup/md/*
+
