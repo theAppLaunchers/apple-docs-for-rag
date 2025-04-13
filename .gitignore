@@ -1272,3 +1272,8 @@
 !ScreenSaver/md
 !ScreenSaver/md/*
 
+!ScreenTime/
+!ScreenTime/finished_links.json
+!ScreenTime/md
+!ScreenTime/md/*
+
