@@ -1157,3 +1157,8 @@
 !playgroundbluetooth/md
 !playgroundbluetooth/md/*
 
+!playgroundsupport/
+!playgroundsupport/finished_links.json
+!playgroundsupport/md
+!playgroundsupport/md/*
+
