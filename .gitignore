@@ -1057,3 +1057,8 @@
 !NaturalLanguage/md
 !NaturalLanguage/md/*
 
+!NearbyInteraction/
+!NearbyInteraction/finished_links.json
+!NearbyInteraction/md
+!NearbyInteraction/md/*
+
