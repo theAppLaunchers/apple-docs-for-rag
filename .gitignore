@@ -732,3 +732,8 @@
 !GroupActivities/md
 !GroupActivities/md/*
 
+!GSS/
+!GSS/finished_links.json
+!GSS/md
+!GSS/md/*
+
