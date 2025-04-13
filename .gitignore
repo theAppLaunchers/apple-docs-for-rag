@@ -957,3 +957,8 @@
 !MatterSupport/md
 !MatterSupport/md/*
 
+!MediaAccessibility/
+!MediaAccessibility/finished_links.json
+!MediaAccessibility/md
+!MediaAccessibility/md/*
+
