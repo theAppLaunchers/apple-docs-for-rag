@@ -1002,3 +1002,8 @@
 !Metal/md
 !Metal/md/*
 
+!metalperformanceshaders/
+!metalperformanceshaders/finished_links.json
+!metalperformanceshaders/md
+!metalperformanceshaders/md/*
+
