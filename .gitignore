@@ -1172,3 +1172,8 @@
 !professional_video_applications/md
 !professional_video_applications/md/*
 
+!ProximityReader/
+!ProximityReader/finished_links.json
+!ProximityReader/md
+!ProximityReader/md/*
+
