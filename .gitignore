@@ -552,3 +552,8 @@
 !DeveloperToolsSupport/md
 !DeveloperToolsSupport/md/*
 
+!DeviceActivity/
+!DeviceActivity/finished_links.json
+!DeviceActivity/md
+!DeviceActivity/md/*
+
