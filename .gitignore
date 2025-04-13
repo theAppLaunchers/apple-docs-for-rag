@@ -757,3 +757,8 @@
 !HTTP-Live-Streaming/md
 !HTTP-Live-Streaming/md/*
 
+!hypervisor/
+!hypervisor/finished_links.json
+!hypervisor/md
+!hypervisor/md/*
+
