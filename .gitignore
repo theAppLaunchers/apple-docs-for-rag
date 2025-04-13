@@ -712,3 +712,8 @@
 !GameController/md
 !GameController/md/*
 
+!GameKit/
+!GameKit/finished_links.json
+!GameKit/md
+!GameKit/md/*
+
