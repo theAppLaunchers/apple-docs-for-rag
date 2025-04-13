@@ -1122,3 +1122,8 @@
 !ParavirtualizedGraphics/md
 !ParavirtualizedGraphics/md/*
 
+!PassKit/
+!PassKit/finished_links.json
+!PassKit/md
+!PassKit/md/*
+
