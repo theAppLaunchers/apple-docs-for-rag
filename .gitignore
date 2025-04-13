@@ -162,3 +162,8 @@
 !MerchantTokenNotificationServices/md
 !MerchantTokenNotificationServices/md/*
 
+!ApplePayontheWeb/
+!ApplePayontheWeb/finished_links.json
+!ApplePayontheWeb/md
+!ApplePayontheWeb/md/*
+
