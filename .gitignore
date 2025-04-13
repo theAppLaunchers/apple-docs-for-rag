@@ -1152,3 +1152,8 @@
 !PhotoKit/md
 !PhotoKit/md/*
 
+!playgroundbluetooth/
+!playgroundbluetooth/finished_links.json
+!playgroundbluetooth/md
+!playgroundbluetooth/md/*
+
