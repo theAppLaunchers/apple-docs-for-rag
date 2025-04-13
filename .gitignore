@@ -1692,3 +1692,8 @@
 !xcselect/md
 !xcselect/md/*
 
+!XCTest/
+!XCTest/finished_links.json
+!XCTest/md
+!XCTest/md/*
+
