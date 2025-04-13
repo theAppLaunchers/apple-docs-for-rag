@@ -1232,3 +1232,8 @@
 !RoomPlan/md
 !RoomPlan/md/*
 
+!RosterAPI/
+!RosterAPI/finished_links.json
+!RosterAPI/md
+!RosterAPI/md/*
+
