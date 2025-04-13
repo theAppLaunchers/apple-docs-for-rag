@@ -447,3 +447,8 @@
 !CoreLocation/md
 !CoreLocation/md/*
 
+!CoreLocationUI/
+!CoreLocationUI/finished_links.json
+!CoreLocationUI/md
+!CoreLocationUI/md/*
+
