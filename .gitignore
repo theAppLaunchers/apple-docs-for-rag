@@ -1717,3 +1717,8 @@
 !TVMLKit/md
 !TVMLKit/md/*
 
+!tvmljs/
+!tvmljs/finished_links.json
+!tvmljs/md
+!tvmljs/md/*
+
