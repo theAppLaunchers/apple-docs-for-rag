@@ -1242,3 +1242,8 @@
 !safari-app-extensions/md
 !safari-app-extensions/md/*
 
+!safari-developer-tools/
+!safari-developer-tools/finished_links.json
+!safari-developer-tools/md
+!safari-developer-tools/md/*
+
