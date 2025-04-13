@@ -607,3 +607,8 @@
 !driverkit/md
 !driverkit/md/*
 
+!EndpointSecurity/
+!EndpointSecurity/finished_links.json
+!EndpointSecurity/md
+!EndpointSecurity/md/*
+
