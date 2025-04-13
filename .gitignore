@@ -1632,3 +1632,8 @@
 !watchOS-Apps/md
 !watchOS-Apps/md/*
 
+!watchos-release-notes/
+!watchos-release-notes/finished_links.json
+!watchos-release-notes/md
+!watchos-release-notes/md/*
+
