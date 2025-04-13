@@ -1292,3 +1292,8 @@
 !SCSIControllerDriverKit/md
 !SCSIControllerDriverKit/md/*
 
+!SCSIPeripheralsDriverKit/
+!SCSIPeripheralsDriverKit/finished_links.json
+!SCSIPeripheralsDriverKit/md
+!SCSIPeripheralsDriverKit/md/*
+
