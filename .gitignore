@@ -492,3 +492,8 @@
 !CoreSpotlight/md
 !CoreSpotlight/md/*
 
+!CoreTelephony/
+!CoreTelephony/finished_links.json
+!CoreTelephony/md
+!CoreTelephony/md/*
+
