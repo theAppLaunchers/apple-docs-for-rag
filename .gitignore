@@ -1277,3 +1277,8 @@
 !ScreenTime/md
 !ScreenTime/md/*
 
+!ScreenCaptureKit/
+!ScreenCaptureKit/finished_links.json
+!ScreenCaptureKit/md
+!ScreenCaptureKit/md/*
+
