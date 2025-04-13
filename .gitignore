@@ -782,3 +782,8 @@
 !ImageCaptureCore/md
 !ImageCaptureCore/md/*
 
+!InputMethodKit/
+!InputMethodKit/finished_links.json
+!InputMethodKit/md
+!InputMethodKit/md/*
+
