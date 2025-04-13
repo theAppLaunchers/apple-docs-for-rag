@@ -422,3 +422,8 @@
 !CoreFoundation/md
 !CoreFoundation/md/*
 
+!CoreGraphics/
+!CoreGraphics/finished_links.json
+!CoreGraphics/md
+!CoreGraphics/md/*
+
