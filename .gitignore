@@ -312,3 +312,8 @@
 !CarPlay/md
 !CarPlay/md/*
 
+!CFNetwork/
+!CFNetwork/finished_links.json
+!CFNetwork/md
+!CFNetwork/md/*
+
