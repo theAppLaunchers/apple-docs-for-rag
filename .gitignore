@@ -1412,3 +1412,8 @@
 !SpriteKit/md
 !SpriteKit/md/*
 
+!StoreKit/
+!StoreKit/finished_links.json
+!StoreKit/md
+!StoreKit/md/*
+
