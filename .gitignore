@@ -1617,3 +1617,8 @@
 !WalletPasses/md
 !WalletPasses/md/*
 
+!WatchConnectivity/
+!WatchConnectivity/finished_links.json
+!WatchConnectivity/md
+!WatchConnectivity/md/*
+
