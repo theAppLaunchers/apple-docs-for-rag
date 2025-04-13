@@ -267,3 +267,8 @@
 !BackgroundAssets/md
 !BackgroundAssets/md/*
 
+!BackgroundTasks/
+!BackgroundTasks/finished_links.json
+!BackgroundTasks/md
+!BackgroundTasks/md/*
+
