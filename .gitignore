@@ -637,3 +637,8 @@
 !ExecutionPolicy/md
 !ExecutionPolicy/md/*
 
+!ExposureNotification/
+!ExposureNotification/finished_links.json
+!ExposureNotification/md
+!ExposureNotification/md/*
+
