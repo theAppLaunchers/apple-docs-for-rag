@@ -1602,3 +1602,8 @@
 !visionos-release-notes/md
 !visionos-release-notes/md/*
 
+!vmnet/
+!vmnet/finished_links.json
+!vmnet/md
+!vmnet/md/*
+
