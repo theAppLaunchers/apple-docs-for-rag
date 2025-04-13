@@ -62,3 +62,8 @@
 !AdSupport/md
 !AdSupport/md/*
 
+!AdvancedCommerceAPI/
+!AdvancedCommerceAPI/finished_links.json
+!AdvancedCommerceAPI/md
+!AdvancedCommerceAPI/md/*
+
