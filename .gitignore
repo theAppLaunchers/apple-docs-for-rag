@@ -192,3 +192,8 @@
 !applicationservices/md
 !applicationservices/md/*
 
+!ARKit/
+!ARKit/finished_links.json
+!ARKit/md
+!ARKit/md/*
+
