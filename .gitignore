@@ -1072,3 +1072,8 @@
 !NetworkExtension/md
 !NetworkExtension/md/*
 
+!NetworkingDriverKit/
+!NetworkingDriverKit/finished_links.json
+!NetworkingDriverKit/md
+!NetworkingDriverKit/md/*
+
