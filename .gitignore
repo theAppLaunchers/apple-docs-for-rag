@@ -777,3 +777,8 @@
 !ImagePlayground/md
 !ImagePlayground/md/*
 
+!ImageCaptureCore/
+!ImageCaptureCore/finished_links.json
+!ImageCaptureCore/md
+!ImageCaptureCore/md/*
+
