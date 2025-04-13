@@ -652,3 +652,8 @@
 !ExtensionKit/md
 !ExtensionKit/md/*
 
+!ExternalAccessory/
+!ExternalAccessory/finished_links.json
+!ExternalAccessory/md
+!ExternalAccessory/md/*
+
