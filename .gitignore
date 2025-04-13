@@ -802,3 +802,8 @@
 !IOBluetoothUI/md
 !IOBluetoothUI/md/*
 
+!iokit/
+!iokit/finished_links.json
+!iokit/md
+!iokit/md/*
+
