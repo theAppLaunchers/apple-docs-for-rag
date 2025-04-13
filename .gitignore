@@ -932,3 +932,8 @@
 !MapKit/md
 !MapKit/md/*
 
+!MapKitJS/
+!MapKitJS/finished_links.json
+!MapKitJS/md
+!MapKitJS/md/*
+
