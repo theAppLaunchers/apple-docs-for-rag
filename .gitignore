@@ -432,3 +432,8 @@
 !CoreHaptics/md
 !CoreHaptics/md/*
 
+!CoreHID/
+!CoreHID/finished_links.json
+!CoreHID/md
+!CoreHID/md/*
+
