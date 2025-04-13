@@ -1557,3 +1557,8 @@
 !USBSerialDriverKit/md
 !USBSerialDriverKit/md/*
 
+!UserNotifications/
+!UserNotifications/finished_links.json
+!UserNotifications/md
+!UserNotifications/md/*
+
