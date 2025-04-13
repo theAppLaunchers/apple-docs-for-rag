@@ -857,3 +857,8 @@
 !LatentSemanticMapping/md
 !LatentSemanticMapping/md/*
 
+!LightweightCodeRequirements/
+!LightweightCodeRequirements/finished_links.json
+!LightweightCodeRequirements/md
+!LightweightCodeRequirements/md/*
+
