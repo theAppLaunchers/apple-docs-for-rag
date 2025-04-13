@@ -1342,3 +1342,8 @@
 !ShaderGraph/md
 !ShaderGraph/md/*
 
+!SharedWithYou/
+!SharedWithYou/finished_links.json
+!SharedWithYou/md
+!SharedWithYou/md/*
+
