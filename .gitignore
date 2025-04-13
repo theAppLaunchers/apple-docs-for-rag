@@ -222,3 +222,8 @@
 !AudioDriverKit/md
 !AudioDriverKit/md/*
 
+!AuthenticationServices/
+!AuthenticationServices/finished_links.json
+!AuthenticationServices/md
+!AuthenticationServices/md/*
+
