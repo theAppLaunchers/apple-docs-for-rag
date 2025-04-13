@@ -937,3 +937,8 @@
 !MapKitJS/md
 !MapKitJS/md/*
 
+!snapshots/
+!snapshots/finished_links.json
+!snapshots/md
+!snapshots/md/*
+
