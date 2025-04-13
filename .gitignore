@@ -617,3 +617,8 @@
 !EnterpriseProgramAPI/md
 !EnterpriseProgramAPI/md/*
 
+!EventKit/
+!EventKit/finished_links.json
+!EventKit/md
+!EventKit/md/*
+
