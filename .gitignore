@@ -1657,3 +1657,8 @@
 !webkitjs/md
 !webkitjs/md/*
 
+!WidgetKit/
+!WidgetKit/finished_links.json
+!WidgetKit/md
+!WidgetKit/md/*
+
