@@ -412,3 +412,8 @@
 !CoreBluetooth/md
 !CoreBluetooth/md/*
 
+!CoreData/
+!CoreData/finished_links.json
+!CoreData/md
+!CoreData/md/*
+
