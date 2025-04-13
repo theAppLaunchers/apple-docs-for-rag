@@ -1417,3 +1417,8 @@
 !StoreKit/md
 !StoreKit/md/*
 
+!StoreKitTest/
+!StoreKitTest/finished_links.json
+!StoreKitTest/md
+!StoreKitTest/md/*
+
