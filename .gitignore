@@ -57,3 +57,8 @@
 !AdServices/md
 !AdServices/md/*
 
+!AdSupport/
+!AdSupport/finished_links.json
+!AdSupport/md
+!AdSupport/md/*
+
