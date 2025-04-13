@@ -77,3 +77,8 @@
 !analytics-reports/md
 !analytics-reports/md/*
 
+!AppClip/
+!AppClip/finished_links.json
+!AppClip/md
+!AppClip/md/*
+
