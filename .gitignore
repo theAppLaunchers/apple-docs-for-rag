@@ -392,3 +392,8 @@
 !ContactsUI/md
 !ContactsUI/md/*
 
+!QuartzCore/
+!QuartzCore/finished_links.json
+!QuartzCore/md
+!QuartzCore/md/*
+
