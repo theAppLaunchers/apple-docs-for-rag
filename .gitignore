@@ -477,3 +477,8 @@
 !CoreMotion/md
 !CoreMotion/md/*
 
+!CoreNFC/
+!CoreNFC/finished_links.json
+!CoreNFC/md
+!CoreNFC/md/*
+
