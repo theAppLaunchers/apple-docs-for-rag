@@ -1697,3 +1697,8 @@
 !XCTest/md
 !XCTest/md/*
 
+!XCUIAutomation/
+!XCUIAutomation/finished_links.json
+!XCUIAutomation/md
+!XCUIAutomation/md/*
+
