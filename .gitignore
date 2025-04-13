@@ -1372,3 +1372,8 @@
 !SiriKit/md
 !SiriKit/md/*
 
+!SiriKitCloudMedia/
+!SiriKitCloudMedia/finished_links.json
+!SiriKitCloudMedia/md
+!SiriKitCloudMedia/md/*
+
