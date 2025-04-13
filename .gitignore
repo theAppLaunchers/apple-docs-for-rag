@@ -1067,3 +1067,8 @@
 !Network/md
 !Network/md/*
 
+!NetworkExtension/
+!NetworkExtension/finished_links.json
+!NetworkExtension/md
+!NetworkExtension/md/*
+
