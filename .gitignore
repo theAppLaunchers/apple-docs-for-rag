@@ -1667,3 +1667,8 @@
 !WorkoutKit/md
 !WorkoutKit/md/*
 
+!Xcode/
+!Xcode/finished_links.json
+!Xcode/md
+!Xcode/md/*
+
