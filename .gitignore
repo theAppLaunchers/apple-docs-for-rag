@@ -647,3 +647,8 @@
 !ExtensionFoundation/md
 !ExtensionFoundation/md/*
 
+!ExtensionKit/
+!ExtensionKit/finished_links.json
+!ExtensionKit/md
+!ExtensionKit/md/*
+
