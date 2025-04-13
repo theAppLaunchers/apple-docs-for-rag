@@ -1577,3 +1577,8 @@
 !VideoToolbox/md
 !VideoToolbox/md/*
 
+!Virtualization/
+!Virtualization/finished_links.json
+!Virtualization/md
+!Virtualization/md/*
+
