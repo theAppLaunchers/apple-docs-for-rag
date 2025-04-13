@@ -537,3 +537,8 @@
 !CryptoTokenKit/md
 !CryptoTokenKit/md/*
 
+!DarwinNotify/
+!DarwinNotify/finished_links.json
+!DarwinNotify/md
+!DarwinNotify/md/*
+
