@@ -982,3 +982,8 @@
 !MediaToolbox/md
 !MediaToolbox/md/*
 
+!MediaExtension/
+!MediaExtension/finished_links.json
+!MediaExtension/md
+!MediaExtension/md/*
+
