@@ -772,3 +772,8 @@
 !ImageIO/md
 !ImageIO/md/*
 
+!ImagePlayground/
+!ImagePlayground/finished_links.json
+!ImagePlayground/md
+!ImagePlayground/md/*
+
