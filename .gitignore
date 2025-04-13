@@ -287,3 +287,8 @@
 !BrowserEngineKit/md
 !BrowserEngineKit/md/*
 
+!BrowserKit/
+!BrowserKit/finished_links.json
+!BrowserKit/md
+!BrowserKit/md/*
+
