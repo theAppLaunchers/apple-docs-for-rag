@@ -387,3 +387,8 @@
 !Contacts/md
 !Contacts/md/*
 
+!ContactsUI/
+!ContactsUI/finished_links.json
+!ContactsUI/md
+!ContactsUI/md/*
+
