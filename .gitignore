@@ -217,3 +217,8 @@
 !AudioUnit/md
 !AudioUnit/md/*
 
+!AudioDriverKit/
+!AudioDriverKit/finished_links.json
+!AudioDriverKit/md
+!AudioDriverKit/md/*
+
