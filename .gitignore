@@ -692,3 +692,8 @@
 !FinderSync/md
 !FinderSync/md/*
 
+!ForceFeedback/
+!ForceFeedback/finished_links.json
+!ForceFeedback/md
+!ForceFeedback/md/*
+
