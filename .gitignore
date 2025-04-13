@@ -662,3 +662,8 @@
 !ExternalPurchaseServerAPI/md
 !ExternalPurchaseServerAPI/md/*
 
+!FamilyControls/
+!FamilyControls/finished_links.json
+!FamilyControls/md
+!FamilyControls/md/*
+
