@@ -1107,3 +1107,8 @@
 !os/md
 !os/md/*
 
+!OSLog/
+!OSLog/finished_links.json
+!OSLog/md
+!OSLog/md/*
+
