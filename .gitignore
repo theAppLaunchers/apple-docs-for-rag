@@ -37,3 +37,8 @@
 !ActivityKit/md
 !ActivityKit/md/*
 
+!AdAttributionKit/
+!AdAttributionKit/finished_links.json
+!AdAttributionKit/md
+!AdAttributionKit/md/*
+
