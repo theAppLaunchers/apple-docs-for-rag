@@ -1502,3 +1502,8 @@
 !Technotes/md
 !Technotes/md/*
 
+!ThreadNetwork/
+!ThreadNetwork/finished_links.json
+!ThreadNetwork/md
+!ThreadNetwork/md/*
+
