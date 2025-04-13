@@ -1612,3 +1612,8 @@
 !WalletOrders/md
 !WalletOrders/md/*
 
+!WalletPasses/
+!WalletPasses/finished_links.json
+!WalletPasses/md
+!WalletPasses/md/*
+
