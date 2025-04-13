@@ -967,3 +967,8 @@
 !MediaLibrary/md
 !MediaLibrary/md/*
 
+!MediaPlayer/
+!MediaPlayer/finished_links.json
+!MediaPlayer/md
+!MediaPlayer/md/*
+
