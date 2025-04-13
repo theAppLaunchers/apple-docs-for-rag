@@ -947,3 +947,8 @@
 !MarketplaceKit/md
 !MarketplaceKit/md/*
 
+!Matter/
+!Matter/finished_links.json
+!Matter/md
+!Matter/md/*
+
