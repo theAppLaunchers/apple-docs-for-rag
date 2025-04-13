@@ -792,3 +792,8 @@
 !installer_js/md
 !installer_js/md/*
 
+!IOBluetooth/
+!IOBluetooth/finished_links.json
+!IOBluetooth/md
+!IOBluetooth/md/*
+
