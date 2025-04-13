@@ -642,3 +642,8 @@
 !ExposureNotification/md
 !ExposureNotification/md/*
 
+!ExtensionFoundation/
+!ExtensionFoundation/finished_links.json
+!ExtensionFoundation/md
+!ExtensionFoundation/md/*
+
