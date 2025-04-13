@@ -1322,3 +1322,8 @@
 !SensitiveContentAnalysis/md
 !SensitiveContentAnalysis/md/*
 
+!SensorKit/
+!SensorKit/finished_links.json
+!SensorKit/md
+!SensorKit/md/*
+
