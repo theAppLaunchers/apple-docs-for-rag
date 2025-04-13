@@ -1237,3 +1237,8 @@
 !RosterAPI/md
 !RosterAPI/md/*
 
+!safari-app-extensions/
+!safari-app-extensions/finished_links.json
+!safari-app-extensions/md
+!safari-app-extensions/md/*
+
