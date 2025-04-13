@@ -122,3 +122,8 @@
 !AppTrackingTransparency/md
 !AppTrackingTransparency/md/*
 
+!AppKit/
+!AppKit/finished_links.json
+!AppKit/md
+!AppKit/md/*
+
