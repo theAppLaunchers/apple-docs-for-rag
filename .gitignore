@@ -972,3 +972,8 @@
 !MediaPlayer/md
 !MediaPlayer/md/*
 
+!MediaSetup/
+!MediaSetup/finished_links.json
+!MediaSetup/md
+!MediaSetup/md/*
+
