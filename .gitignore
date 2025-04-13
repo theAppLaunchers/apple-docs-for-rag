@@ -427,3 +427,8 @@
 !CoreGraphics/md
 !CoreGraphics/md/*
 
+!CoreHaptics/
+!CoreHaptics/finished_links.json
+!CoreHaptics/md
+!CoreHaptics/md/*
+
