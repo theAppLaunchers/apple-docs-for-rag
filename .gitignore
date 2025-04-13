@@ -1572,3 +1572,8 @@
 !VideoSubscriberAccount/md
 !VideoSubscriberAccount/md/*
 
+!VideoToolbox/
+!VideoToolbox/finished_links.json
+!VideoToolbox/md
+!VideoToolbox/md/*
+
