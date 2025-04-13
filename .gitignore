@@ -837,3 +837,8 @@
 !JavaScriptCore/md
 !JavaScriptCore/md/*
 
+!JournalingSuggestions/
+!JournalingSuggestions/finished_links.json
+!JournalingSuggestions/md
+!JournalingSuggestions/md/*
+
