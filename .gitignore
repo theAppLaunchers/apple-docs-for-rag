@@ -697,3 +697,8 @@
 !ForceFeedback/md
 !ForceFeedback/md/*
 
+!foundation/
+!foundation/finished_links.json
+!foundation/md
+!foundation/md/*
+
