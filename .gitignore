@@ -362,3 +362,8 @@
 !ColorSync/md
 !ColorSync/md/*
 
+!Combine/
+!Combine/finished_links.json
+!Combine/md
+!Combine/md/*
+
