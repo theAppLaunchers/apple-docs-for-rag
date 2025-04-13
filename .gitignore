@@ -1147,3 +1147,8 @@
 !PHASE/md
 !PHASE/md/*
 
+!PhotoKit/
+!PhotoKit/finished_links.json
+!PhotoKit/md
+!PhotoKit/md/*
+
