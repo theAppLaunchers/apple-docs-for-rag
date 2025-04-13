@@ -727,3 +727,8 @@
 !GLKit/md
 !GLKit/md/*
 
+!GroupActivities/
+!GroupActivities/finished_links.json
+!GroupActivities/md
+!GroupActivities/md/*
+
