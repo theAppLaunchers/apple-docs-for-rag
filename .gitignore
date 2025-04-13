@@ -677,3 +677,8 @@
 !FileProviderUI/md
 !FileProviderUI/md/*
 
+!FinanceKit/
+!FinanceKit/finished_links.json
+!FinanceKit/md
+!FinanceKit/md/*
+
