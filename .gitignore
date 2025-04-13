@@ -842,3 +842,8 @@
 !JournalingSuggestions/md
 !JournalingSuggestions/md/*
 
+!kernel/
+!kernel/finished_links.json
+!kernel/md
+!kernel/md/*
+
