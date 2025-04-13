@@ -1207,3 +1207,8 @@
 !QuickLookUI/md
 !QuickLookUI/md/*
 
+!quicktime-file-format/
+!quicktime-file-format/finished_links.json
+!quicktime-file-format/md
+!quicktime-file-format/md/*
+
