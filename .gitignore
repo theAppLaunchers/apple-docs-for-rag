@@ -962,3 +962,8 @@
 !MediaAccessibility/md
 !MediaAccessibility/md/*
 
+!MediaLibrary/
+!MediaLibrary/finished_links.json
+!MediaLibrary/md
+!MediaLibrary/md/*
+
