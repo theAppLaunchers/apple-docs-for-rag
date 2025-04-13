@@ -457,3 +457,8 @@
 !CoreMedia/md
 !CoreMedia/md/*
 
+!CoreMediaIO/
+!CoreMediaIO/finished_links.json
+!CoreMediaIO/md
+!CoreMediaIO/md/*
+
