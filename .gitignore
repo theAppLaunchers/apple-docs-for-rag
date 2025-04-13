@@ -1332,3 +1332,8 @@
 !SerialDriverKit/md
 !SerialDriverKit/md/*
 
+!ServiceManagement/
+!ServiceManagement/finished_links.json
+!ServiceManagement/md
+!ServiceManagement/md/*
+
