@@ -1302,3 +1302,8 @@
 !SecureElementCredential/md
 !SecureElementCredential/md/*
 
+!Security/
+!Security/finished_links.json
+!Security/md
+!Security/md/*
+
