@@ -1032,3 +1032,8 @@
 !MIDIDriverKit/md
 !MIDIDriverKit/md/*
 
+!MLCompute/
+!MLCompute/finished_links.json
+!MLCompute/md
+!MLCompute/md/*
+
