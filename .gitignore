@@ -542,3 +542,8 @@
 !DarwinNotify/md
 !DarwinNotify/md/*
 
+!DataDetection/
+!DataDetection/finished_links.json
+!DataDetection/md
+!DataDetection/md/*
+
