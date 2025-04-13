@@ -977,3 +977,8 @@
 !MediaSetup/md
 !MediaSetup/md/*
 
+!MediaToolbox/
+!MediaToolbox/finished_links.json
+!MediaToolbox/md
+!MediaToolbox/md/*
+
