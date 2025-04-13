@@ -547,3 +547,8 @@
 !DataDetection/md
 !DataDetection/md/*
 
+!DeveloperToolsSupport/
+!DeveloperToolsSupport/finished_links.json
+!DeveloperToolsSupport/md
+!DeveloperToolsSupport/md/*
+
