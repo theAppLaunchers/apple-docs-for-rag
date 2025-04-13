@@ -1347,3 +1347,8 @@
 !SharedWithYou/md
 !SharedWithYou/md/*
 
+!ShazamKit/
+!ShazamKit/finished_links.json
+!ShazamKit/md
+!ShazamKit/md/*
+
