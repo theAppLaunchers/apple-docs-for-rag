@@ -882,3 +882,8 @@
 !LocalAuthentication/md
 !LocalAuthentication/md/*
 
+!LocalAuthenticationEmbeddedUI/
+!LocalAuthenticationEmbeddedUI/finished_links.json
+!LocalAuthenticationEmbeddedUI/md
+!LocalAuthenticationEmbeddedUI/md/*
+
