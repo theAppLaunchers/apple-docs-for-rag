@@ -1552,3 +1552,8 @@
 !USBDriverKit/md
 !USBDriverKit/md/*
 
+!USBSerialDriverKit/
+!USBSerialDriverKit/finished_links.json
+!USBSerialDriverKit/md
+!USBSerialDriverKit/md/*
+
