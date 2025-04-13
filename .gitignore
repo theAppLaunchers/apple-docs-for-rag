@@ -302,3 +302,8 @@
 !CallKit/md
 !CallKit/md/*
 
+!CarKey/
+!CarKey/finished_links.json
+!CarKey/md
+!CarKey/md/*
+
