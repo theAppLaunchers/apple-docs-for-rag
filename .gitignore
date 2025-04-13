@@ -257,3 +257,8 @@
 !AVKit/md
 !AVKit/md/*
 
+!AVRouting/
+!AVRouting/finished_links.json
+!AVRouting/md
+!AVRouting/md/*
+
