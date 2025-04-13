@@ -847,3 +847,8 @@
 !kernel/md
 !kernel/md/*
 
+!kernelmanagement/
+!kernelmanagement/finished_links.json
+!kernelmanagement/md
+!kernelmanagement/md/*
+
