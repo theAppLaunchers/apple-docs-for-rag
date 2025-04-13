@@ -107,3 +107,8 @@
 !appstorereceipts/md
 !appstorereceipts/md/*
 
+!AppStoreServerAPI/
+!AppStoreServerAPI/finished_links.json
+!AppStoreServerAPI/md
+!AppStoreServerAPI/md/*
+
