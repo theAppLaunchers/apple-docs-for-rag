@@ -452,3 +452,8 @@
 !CoreLocationUI/md
 !CoreLocationUI/md/*
 
+!CoreMedia/
+!CoreMedia/finished_links.json
+!CoreMedia/md
+!CoreMedia/md/*
+
