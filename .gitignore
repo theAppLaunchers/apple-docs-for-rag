@@ -922,3 +922,8 @@
 !ManagedSettingsUI/md
 !ManagedSettingsUI/md/*
 
+!ManagedApp/
+!ManagedApp/finished_links.json
+!ManagedApp/md
+!ManagedApp/md/*
+
