@@ -97,3 +97,8 @@
 !AppLicenseDeliverySDK/md
 !AppLicenseDeliverySDK/md/*
 
+!AppStoreConnectAPI/
+!AppStoreConnectAPI/finished_links.json
+!AppStoreConnectAPI/md
+!AppStoreConnectAPI/md/*
+
