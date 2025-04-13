@@ -877,3 +877,8 @@
 !LivePhotosKitJS/md
 !LivePhotosKitJS/md/*
 
+!LocalAuthentication/
+!LocalAuthentication/finished_links.json
+!LocalAuthentication/md
+!LocalAuthentication/md/*
+
