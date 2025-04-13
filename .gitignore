@@ -707,3 +707,8 @@
 !FSKit/md
 !FSKit/md/*
 
+!GameController/
+!GameController/finished_links.json
+!GameController/md
+!GameController/md/*
+
