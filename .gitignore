@@ -1662,3 +1662,8 @@
 !WidgetKit/md
 !WidgetKit/md/*
 
+!WorkoutKit/
+!WorkoutKit/finished_links.json
+!WorkoutKit/md
+!WorkoutKit/md/*
+
