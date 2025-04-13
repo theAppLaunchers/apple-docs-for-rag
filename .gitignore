@@ -917,3 +917,8 @@
 !ManagedSettings/md
 !ManagedSettings/md/*
 
+!ManagedSettingsUI/
+!ManagedSettingsUI/finished_links.json
+!ManagedSettingsUI/md
+!ManagedSettingsUI/md/*
+
