@@ -1137,3 +1137,8 @@
 !PDFKit/md
 !PDFKit/md/*
 
+!PencilKit/
+!PencilKit/finished_links.json
+!PencilKit/md
+!PencilKit/md/*
+
