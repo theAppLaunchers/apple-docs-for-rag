@@ -1257,3 +1257,8 @@
 !SafariServices/md
 !SafariServices/md/*
 
+!SafetyKit/
+!SafetyKit/finished_links.json
+!SafetyKit/md
+!SafetyKit/md/*
+
