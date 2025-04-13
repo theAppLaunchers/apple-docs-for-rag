@@ -1062,3 +1062,8 @@
 !NearbyInteraction/md
 !NearbyInteraction/md/*
 
+!Network/
+!Network/finished_links.json
+!Network/md
+!Network/md/*
+
