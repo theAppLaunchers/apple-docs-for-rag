@@ -902,3 +902,8 @@
 !macos-release-notes/md
 !macos-release-notes/md/*
 
+!MailKit/
+!MailKit/finished_links.json
+!MailKit/md
+!MailKit/md/*
+
