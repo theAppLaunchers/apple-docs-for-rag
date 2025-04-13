@@ -512,3 +512,8 @@
 !CoreVideo/md
 !CoreVideo/md/*
 
+!CoreWLAN/
+!CoreWLAN/finished_links.json
+!CoreWLAN/md
+!CoreWLAN/md/*
+
