@@ -532,3 +532,8 @@
 !CreateMLComponents/md
 !CreateMLComponents/md/*
 
+!CryptoTokenKit/
+!CryptoTokenKit/finished_links.json
+!CryptoTokenKit/md
+!CryptoTokenKit/md/*
+
