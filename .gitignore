@@ -1487,3 +1487,8 @@
 !TabletopKit/md
 !TabletopKit/md/*
 
+!TabularData/
+!TabularData/finished_links.json
+!TabularData/md
+!TabularData/md/*
+
