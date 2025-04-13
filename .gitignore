@@ -137,3 +137,8 @@
 !CryptoKit/md
 !CryptoKit/md/*
 
+!AppleMapsServerAPI/
+!AppleMapsServerAPI/finished_links.json
+!AppleMapsServerAPI/md
+!AppleMapsServerAPI/md/*
+
