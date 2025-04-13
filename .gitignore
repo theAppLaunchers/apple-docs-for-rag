@@ -872,3 +872,8 @@
 !LiveCommunicationKit/md
 !LiveCommunicationKit/md/*
 
+!LivePhotosKitJS/
+!LivePhotosKitJS/finished_links.json
+!LivePhotosKitJS/md
+!LivePhotosKitJS/md/*
+
