@@ -187,3 +187,8 @@
 !apple-silicon/md
 !apple-silicon/md/*
 
+!applicationservices/
+!applicationservices/finished_links.json
+!applicationservices/md
+!applicationservices/md/*
+
