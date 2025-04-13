@@ -157,3 +157,8 @@
 !AppleNews/md
 !AppleNews/md/*
 
+!MerchantTokenNotificationServices/
+!MerchantTokenNotificationServices/finished_links.json
+!MerchantTokenNotificationServices/md
+!MerchantTokenNotificationServices/md/*
+
