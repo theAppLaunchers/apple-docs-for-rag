@@ -1082,3 +1082,8 @@
 !NotaryAPI/md
 !NotaryAPI/md/*
 
+!NotificationCenter/
+!NotificationCenter/finished_links.json
+!NotificationCenter/md
+!NotificationCenter/md/*
+
