@@ -832,3 +832,8 @@
 !iWorkDocumentExportingAPI/md
 !iWorkDocumentExportingAPI/md/*
 
+!JavaScriptCore/
+!JavaScriptCore/finished_links.json
+!JavaScriptCore/md
+!JavaScriptCore/md/*
+
