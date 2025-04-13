@@ -382,3 +382,8 @@
 !ContactProvider/md
 !ContactProvider/md/*
 
+!Contacts/
+!Contacts/finished_links.json
+!Contacts/md
+!Contacts/md/*
+
