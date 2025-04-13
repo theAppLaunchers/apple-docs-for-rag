@@ -1402,3 +1402,8 @@
 !Spatial/md
 !Spatial/md/*
 
+!Speech/
+!Speech/finished_links.json
+!Speech/md
+!Speech/md/*
+
