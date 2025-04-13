@@ -1037,3 +1037,8 @@
 !MLCompute/md
 !MLCompute/md/*
 
+!ModelIO/
+!ModelIO/finished_links.json
+!ModelIO/md
+!ModelIO/md/*
+
