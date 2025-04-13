@@ -587,3 +587,8 @@
 !Dispatch/md
 !Dispatch/md/*
 
+!Distributed/
+!Distributed/finished_links.json
+!Distributed/md
+!Distributed/md/*
+
