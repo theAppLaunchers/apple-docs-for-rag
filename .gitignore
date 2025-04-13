@@ -142,3 +142,8 @@
 !AppleMapsServerAPI/md
 !AppleMapsServerAPI/md/*
 
+!AppleMusicAPI/
+!AppleMusicAPI/finished_links.json
+!AppleMusicAPI/md
+!AppleMusicAPI/md/*
+
