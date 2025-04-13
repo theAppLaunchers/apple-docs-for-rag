@@ -1177,3 +1177,8 @@
 !ProximityReader/md
 !ProximityReader/md/*
 
+!PushToTalk/
+!PushToTalk/finished_links.json
+!PushToTalk/md
+!PushToTalk/md/*
+
