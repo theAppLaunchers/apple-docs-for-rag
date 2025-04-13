@@ -1687,3 +1687,8 @@
 !XcodeKit/md
 !XcodeKit/md/*
 
+!xcselect/
+!xcselect/finished_links.json
+!xcselect/md
+!xcselect/md/*
+
