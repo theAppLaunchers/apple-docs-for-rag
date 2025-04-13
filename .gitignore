@@ -1117,3 +1117,8 @@
 !PackageDescription/md
 !PackageDescription/md/*
 
+!ParavirtualizedGraphics/
+!ParavirtualizedGraphics/finished_links.json
+!ParavirtualizedGraphics/md
+!ParavirtualizedGraphics/md/*
+
