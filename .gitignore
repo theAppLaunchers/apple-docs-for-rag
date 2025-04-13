@@ -992,3 +992,8 @@
 !MessageUI/md
 !MessageUI/md/*
 
+!Messages/
+!Messages/finished_links.json
+!Messages/md
+!Messages/md/*
+
