@@ -367,3 +367,8 @@
 !Combine/md
 !Combine/md/*
 
+!CompositorServices/
+!CompositorServices/finished_links.json
+!CompositorServices/md
+!CompositorServices/md/*
+
