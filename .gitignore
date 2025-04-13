@@ -42,3 +42,8 @@
 !AdAttributionKit/md
 !AdAttributionKit/md/*
 
+!AddressBook/
+!AddressBook/finished_links.json
+!AddressBook/md
+!AddressBook/md/*
+
