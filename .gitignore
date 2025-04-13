@@ -27,3 +27,8 @@
 !AccountDataTransfer/md
 !AccountDataTransfer/md/*
 
+!Accounts/
+!Accounts/finished_links.json
+!Accounts/md
+!Accounts/md/*
+
