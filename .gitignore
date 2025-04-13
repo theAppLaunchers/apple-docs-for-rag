@@ -1357,3 +1357,8 @@
 !SigninwithApple/md
 !SigninwithApple/md/*
 
+!simd/
+!simd/finished_links.json
+!simd/md
+!simd/md/*
+
