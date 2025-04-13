@@ -1472,3 +1472,8 @@
 !System/md
 !System/md/*
 
+!SystemConfiguration/
+!SystemConfiguration/finished_links.json
+!SystemConfiguration/md
+!SystemConfiguration/md/*
+
