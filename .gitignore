@@ -1317,3 +1317,8 @@
 !SecurityInterface/md
 !SecurityInterface/md/*
 
+!SensitiveContentAnalysis/
+!SensitiveContentAnalysis/finished_links.json
+!SensitiveContentAnalysis/md
+!SensitiveContentAnalysis/md/*
+
