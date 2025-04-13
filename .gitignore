@@ -1512,3 +1512,8 @@
 !TipKit/md
 !TipKit/md/*
 
+!Translation/
+!Translation/finished_links.json
+!Translation/md
+!Translation/md/*
+
