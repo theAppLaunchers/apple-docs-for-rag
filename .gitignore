@@ -1077,3 +1077,8 @@
 !NetworkingDriverKit/md
 !NetworkingDriverKit/md/*
 
+!NotaryAPI/
+!NotaryAPI/finished_links.json
+!NotaryAPI/md
+!NotaryAPI/md/*
+
