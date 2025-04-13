@@ -47,3 +47,8 @@
 !AddressBook/md
 !AddressBook/md/*
 
+!AddressBookUI/
+!AddressBookUI/finished_links.json
+!AddressBookUI/md
+!AddressBookUI/md/*
+
