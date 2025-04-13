@@ -1022,3 +1022,8 @@
 !MetalKit/md
 !MetalKit/md/*
 
+!MetricKit/
+!MetricKit/finished_links.json
+!MetricKit/md
+!MetricKit/md/*
+
