@@ -1227,3 +1227,8 @@
 !ReplayKit/md
 !ReplayKit/md/*
 
+!RoomPlan/
+!RoomPlan/finished_links.json
+!RoomPlan/md
+!RoomPlan/md/*
+
