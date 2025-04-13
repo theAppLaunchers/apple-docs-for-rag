@@ -72,3 +72,8 @@
 !AGL/md
 !AGL/md/*
 
+!analytics-reports/
+!analytics-reports/finished_links.json
+!analytics-reports/md
+!analytics-reports/md/*
+
