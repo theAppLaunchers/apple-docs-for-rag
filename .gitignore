@@ -1247,3 +1247,8 @@
 !safari-developer-tools/md
 !safari-developer-tools/md/*
 
+!safari-release-notes/
+!safari-release-notes/finished_links.json
+!safari-release-notes/md
+!safari-release-notes/md/*
+
