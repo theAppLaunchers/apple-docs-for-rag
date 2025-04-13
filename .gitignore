@@ -687,3 +687,8 @@
 !FinanceKitUI/md
 !FinanceKitUI/md/*
 
+!FinderSync/
+!FinderSync/finished_links.json
+!FinderSync/md
+!FinderSync/md/*
+
