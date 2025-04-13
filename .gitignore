@@ -622,3 +622,8 @@
 !EventKit/md
 !EventKit/md/*
 
+!EventKitUI/
+!EventKitUI/finished_links.json
+!EventKitUI/md
+!EventKitUI/md/*
+
