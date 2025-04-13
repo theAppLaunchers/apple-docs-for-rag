@@ -1647,3 +1647,8 @@
 !WeatherKitRESTAPI/md
 !WeatherKitRESTAPI/md/*
 
+!WebKit/
+!WebKit/finished_links.json
+!WebKit/md
+!WebKit/md/*
+
