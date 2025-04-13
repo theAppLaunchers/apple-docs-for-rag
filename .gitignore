@@ -12,3 +12,8 @@
 !Accessibility/md
 !Accessibility/md/*
 
+!AccessorySetupKit/
+!AccessorySetupKit/finished_links.json
+!AccessorySetupKit/md
+!AccessorySetupKit/md/*
+
