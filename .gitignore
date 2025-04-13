@@ -852,3 +852,8 @@
 !kernelmanagement/md
 !kernelmanagement/md/*
 
+!LatentSemanticMapping/
+!LatentSemanticMapping/finished_links.json
+!LatentSemanticMapping/md
+!LatentSemanticMapping/md/*
+
