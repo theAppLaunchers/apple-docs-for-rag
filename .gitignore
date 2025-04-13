@@ -1427,3 +1427,8 @@
 !Swift/md
 !Swift/md/*
 
+!Charts/
+!Charts/finished_links.json
+!Charts/md
+!Charts/md/*
+
