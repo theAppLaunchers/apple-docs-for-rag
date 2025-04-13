@@ -817,3 +817,8 @@
 !IOSurface/md
 !IOSurface/md/*
 
+!IOUSBHost/
+!IOUSBHost/finished_links.json
+!IOUSBHost/md
+!IOUSBHost/md/*
+
