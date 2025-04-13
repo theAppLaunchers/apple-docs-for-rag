@@ -1672,3 +1672,8 @@
 !Xcode/md
 !Xcode/md/*
 
+!Xcode-Cloud/
+!Xcode-Cloud/finished_links.json
+!Xcode-Cloud/md
+!Xcode-Cloud/md/*
+
