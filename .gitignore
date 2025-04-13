@@ -317,3 +317,8 @@
 !CFNetwork/md
 !CFNetwork/md/*
 
+!Cinematic/
+!Cinematic/finished_links.json
+!Cinematic/md
+!Cinematic/md/*
+
