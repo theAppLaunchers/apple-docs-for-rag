@@ -177,3 +177,8 @@
 !ApplePencil/md
 !ApplePencil/md/*
 
+!apple_search_ads/
+!apple_search_ads/finished_links.json
+!apple_search_ads/md
+!apple_search_ads/md/*
+
