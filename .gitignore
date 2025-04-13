@@ -67,3 +67,8 @@
 !AdvancedCommerceAPI/md
 !AdvancedCommerceAPI/md/*
 
+!AGL/
+!AGL/finished_links.json
+!AGL/md
+!AGL/md/*
+
