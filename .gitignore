@@ -897,3 +897,8 @@
 !mac-catalyst/md
 !mac-catalyst/md/*
 
+!macos-release-notes/
+!macos-release-notes/finished_links.json
+!macos-release-notes/md
+!macos-release-notes/md/*
+
