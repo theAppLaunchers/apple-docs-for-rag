@@ -1587,3 +1587,8 @@
 !Vision/md
 !Vision/md/*
 
+!VisionKit/
+!VisionKit/finished_links.json
+!VisionKit/md
+!VisionKit/md/*
+
