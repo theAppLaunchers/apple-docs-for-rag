@@ -942,3 +942,8 @@
 !snapshots/md
 !snapshots/md/*
 
+!MarketplaceKit/
+!MarketplaceKit/finished_links.json
+!MarketplaceKit/md
+!MarketplaceKit/md/*
+
