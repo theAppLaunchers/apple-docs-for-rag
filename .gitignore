@@ -1407,3 +1407,8 @@
 !Speech/md
 !Speech/md/*
 
+!SpriteKit/
+!SpriteKit/finished_links.json
+!SpriteKit/md
+!SpriteKit/md/*
+
