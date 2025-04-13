@@ -342,3 +342,8 @@
 !ClockKit/md
 !ClockKit/md/*
 
+!CloudKit/
+!CloudKit/finished_links.json
+!CloudKit/md
+!CloudKit/md/*
+
