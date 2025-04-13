@@ -762,3 +762,8 @@
 !hypervisor/md
 !hypervisor/md/*
 
+!iAd/
+!iAd/finished_links.json
+!iAd/md
+!iAd/md/*
+
