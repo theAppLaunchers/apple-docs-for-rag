@@ -337,3 +337,8 @@
 !ClassKitCatalogAPI/md
 !ClassKitCatalogAPI/md/*
 
+!ClockKit/
+!ClockKit/finished_links.json
+!ClockKit/md
+!ClockKit/md/*
+
