@@ -112,3 +112,8 @@
 !AppStoreServerAPI/md
 !AppStoreServerAPI/md/*
 
+!AppStoreServerNotifications/
+!AppStoreServerNotifications/finished_links.json
+!AppStoreServerNotifications/md
+!AppStoreServerNotifications/md/*
+
