@@ -117,3 +117,8 @@
 !AppStoreServerNotifications/md
 !AppStoreServerNotifications/md/*
 
+!AppTrackingTransparency/
+!AppTrackingTransparency/finished_links.json
+!AppTrackingTransparency/md
+!AppTrackingTransparency/md/*
+
