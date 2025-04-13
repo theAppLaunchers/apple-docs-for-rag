@@ -272,3 +272,8 @@
 !BackgroundTasks/md
 !BackgroundTasks/md/*
 
+!BlockStorageDeviceDriverKit/
+!BlockStorageDeviceDriverKit/finished_links.json
+!BlockStorageDeviceDriverKit/md
+!BlockStorageDeviceDriverKit/md/*
+
