@@ -822,3 +822,8 @@
 !IOUSBHost/md
 !IOUSBHost/md/*
 
+!iTunesLibrary/
+!iTunesLibrary/finished_links.json
+!iTunesLibrary/md
+!iTunesLibrary/md/*
+
