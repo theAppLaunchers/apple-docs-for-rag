@@ -1397,3 +1397,8 @@
 !SoundAnalysis/md
 !SoundAnalysis/md/*
 
+!Spatial/
+!Spatial/finished_links.json
+!Spatial/md
+!Spatial/md/*
+
