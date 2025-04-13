@@ -1592,3 +1592,8 @@
 !VisionKit/md
 !VisionKit/md/*
 
+!visionOS/
+!visionOS/finished_links.json
+!visionOS/md
+!visionOS/md/*
+
