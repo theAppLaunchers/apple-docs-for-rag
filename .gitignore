@@ -197,3 +197,8 @@
 !ARKit/md
 !ARKit/md/*
 
+!AssetsLibrary/
+!AssetsLibrary/finished_links.json
+!AssetsLibrary/md
+!AssetsLibrary/md/*
+
