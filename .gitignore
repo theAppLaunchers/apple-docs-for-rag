@@ -1642,3 +1642,8 @@
 !WeatherKit/md
 !WeatherKit/md/*
 
+!WeatherKitRESTAPI/
+!WeatherKitRESTAPI/finished_links.json
+!WeatherKitRESTAPI/md
+!WeatherKitRESTAPI/md/*
+
