@@ -1212,3 +1212,8 @@
 !quicktime-file-format/md
 !quicktime-file-format/md/*
 
+!RealityKit/
+!RealityKit/finished_links.json
+!RealityKit/md
+!RealityKit/md/*
+
