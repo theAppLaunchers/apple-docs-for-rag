@@ -1262,3 +1262,8 @@
 !SafetyKit/md
 !SafetyKit/md/*
 
+!SceneKit/
+!SceneKit/finished_links.json
+!SceneKit/md
+!SceneKit/md/*
+
