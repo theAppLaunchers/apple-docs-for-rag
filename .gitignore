@@ -82,3 +82,8 @@
 !AppClip/md
 !AppClip/md/*
 
+!AppDataTransfer/
+!AppDataTransfer/finished_links.json
+!AppDataTransfer/md
+!AppDataTransfer/md/*
+
