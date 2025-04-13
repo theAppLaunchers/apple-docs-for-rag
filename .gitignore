@@ -227,3 +227,8 @@
 !AuthenticationServices/md
 !AuthenticationServices/md/*
 
+!AutomatedDeviceEnrollment/
+!AutomatedDeviceEnrollment/finished_links.json
+!AutomatedDeviceEnrollment/md
+!AutomatedDeviceEnrollment/md/*
+
