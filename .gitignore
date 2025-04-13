@@ -1282,3 +1282,8 @@
 !ScreenCaptureKit/md
 !ScreenCaptureKit/md/*
 
+!ScriptingBridge/
+!ScriptingBridge/finished_links.json
+!ScriptingBridge/md
+!ScriptingBridge/md/*
+
