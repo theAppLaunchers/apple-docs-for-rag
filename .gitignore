@@ -1052,3 +1052,8 @@
 !MusicKit/md
 !MusicKit/md/*
 
+!NaturalLanguage/
+!NaturalLanguage/finished_links.json
+!NaturalLanguage/md
+!NaturalLanguage/md/*
+
