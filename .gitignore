@@ -247,3 +247,8 @@
 !AVFAudio/md
 !AVFAudio/md/*
 
+!AVFoundation/
+!AVFoundation/finished_links.json
+!AVFoundation/md
+!AVFoundation/md/*
+
