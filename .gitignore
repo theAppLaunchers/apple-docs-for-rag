@@ -887,3 +887,8 @@
 !LocalAuthenticationEmbeddedUI/md
 !LocalAuthenticationEmbeddedUI/md/*
 
+!LockedCameraCapture/
+!LockedCameraCapture/finished_links.json
+!LockedCameraCapture/md
+!LockedCameraCapture/md/*
+
