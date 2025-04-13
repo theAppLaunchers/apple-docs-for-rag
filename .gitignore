@@ -627,3 +627,8 @@
 !EventKitUI/md
 !EventKitUI/md/*
 
+!ExceptionHandling/
+!ExceptionHandling/finished_links.json
+!ExceptionHandling/md
+!ExceptionHandling/md/*
+
