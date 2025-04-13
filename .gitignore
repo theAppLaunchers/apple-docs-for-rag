@@ -397,3 +397,8 @@
 !QuartzCore/md
 !QuartzCore/md/*
 
+!CoreAudio/
+!CoreAudio/finished_links.json
+!CoreAudio/md
+!CoreAudio/md/*
+
