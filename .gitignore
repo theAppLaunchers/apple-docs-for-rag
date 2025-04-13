@@ -737,3 +737,8 @@
 !GSS/md
 !GSS/md/*
 
+!HealthKit/
+!HealthKit/finished_links.json
+!HealthKit/md
+!HealthKit/md/*
+
