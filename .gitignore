@@ -167,3 +167,8 @@
 !ApplePayontheWeb/md
 !ApplePayontheWeb/md/*
 
+!ApplePayWebMerchantRegistrationAPI/
+!ApplePayWebMerchantRegistrationAPI/finished_links.json
+!ApplePayWebMerchantRegistrationAPI/md
+!ApplePayWebMerchantRegistrationAPI/md/*
+
