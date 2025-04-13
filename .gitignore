@@ -1252,3 +1252,8 @@
 !safari-release-notes/md
 !safari-release-notes/md/*
 
+!SafariServices/
+!SafariServices/finished_links.json
+!SafariServices/md
+!SafariServices/md/*
+
