@@ -1452,3 +1452,8 @@
 !SwiftData/md
 !SwiftData/md/*
 
+!SwiftUI/
+!SwiftUI/finished_links.json
+!SwiftUI/md
+!SwiftUI/md/*
+
