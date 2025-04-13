@@ -467,3 +467,8 @@
 !CoreMIDI/md
 !CoreMIDI/md/*
 
+!CoreML/
+!CoreML/finished_links.json
+!CoreML/md
+!CoreML/md/*
+
