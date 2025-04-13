@@ -827,3 +827,8 @@
 !iTunesLibrary/md
 !iTunesLibrary/md/*
 
+!iWorkDocumentExportingAPI/
+!iWorkDocumentExportingAPI/finished_links.json
+!iWorkDocumentExportingAPI/md
+!iWorkDocumentExportingAPI/md/*
+
