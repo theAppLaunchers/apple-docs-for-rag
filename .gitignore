@@ -17,3 +17,8 @@
 !AccessorySetupKit/md
 !AccessorySetupKit/md/*
 
+!AccountOrganizationalDataSharing/
+!AccountOrganizationalDataSharing/finished_links.json
+!AccountOrganizationalDataSharing/md
+!AccountOrganizationalDataSharing/md/*
+
