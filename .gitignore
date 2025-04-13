@@ -927,3 +927,8 @@
 !ManagedApp/md
 !ManagedApp/md/*
 
+!MapKit/
+!MapKit/finished_links.json
+!MapKit/md
+!MapKit/md/*
+
