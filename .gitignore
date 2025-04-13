@@ -742,3 +742,8 @@
 !HealthKit/md
 !HealthKit/md/*
 
+!HIDDriverKit/
+!HIDDriverKit/finished_links.json
+!HIDDriverKit/md
+!HIDDriverKit/md/*
+
