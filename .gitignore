@@ -1097,3 +1097,8 @@
 !Observation/md
 !Observation/md/*
 
+!OpenDirectory/
+!OpenDirectory/finished_links.json
+!OpenDirectory/md
+!OpenDirectory/md/*
+
