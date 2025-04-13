@@ -1192,3 +1192,8 @@
 !Quartz/md
 !Quartz/md/*
 
+!QuickLook/
+!QuickLook/finished_links.json
+!QuickLook/md
+!QuickLook/md/*
+
