@@ -1297,3 +1297,8 @@
 !SCSIPeripheralsDriverKit/md
 !SCSIPeripheralsDriverKit/md/*
 
+!SecureElementCredential/
+!SecureElementCredential/finished_links.json
+!SecureElementCredential/md
+!SecureElementCredential/md/*
+
