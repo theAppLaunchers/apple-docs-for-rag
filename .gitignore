@@ -377,3 +377,8 @@
 !Compression/md
 !Compression/md/*
 
+!ContactProvider/
+!ContactProvider/finished_links.json
+!ContactProvider/md
+!ContactProvider/md/*
+
