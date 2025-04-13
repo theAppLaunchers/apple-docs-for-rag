@@ -807,3 +807,8 @@
 !iokit/md
 !iokit/md/*
 
+!ios-ipados-release-notes/
+!ios-ipados-release-notes/finished_links.json
+!ios-ipados-release-notes/md
+!ios-ipados-release-notes/md/*
+
