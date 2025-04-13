@@ -442,3 +442,8 @@
 !coreimage/md
 !coreimage/md/*
 
+!CoreLocation/
+!CoreLocation/finished_links.json
+!CoreLocation/md
+!CoreLocation/md/*
+
