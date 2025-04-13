@@ -657,3 +657,8 @@
 !ExternalAccessory/md
 !ExternalAccessory/md/*
 
+!ExternalPurchaseServerAPI/
+!ExternalPurchaseServerAPI/finished_links.json
+!ExternalPurchaseServerAPI/md
+!ExternalPurchaseServerAPI/md/*
+
