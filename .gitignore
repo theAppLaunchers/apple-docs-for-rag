@@ -87,3 +87,8 @@
 !AppDataTransfer/md
 !AppDataTransfer/md/*
 
+!AppIntents/
+!AppIntents/finished_links.json
+!AppIntents/md
+!AppIntents/md/*
+
