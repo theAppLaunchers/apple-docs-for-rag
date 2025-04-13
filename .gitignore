@@ -252,3 +252,8 @@
 !AVFoundation/md
 !AVFoundation/md/*
 
+!AVKit/
+!AVKit/finished_links.json
+!AVKit/md
+!AVKit/md/*
+
