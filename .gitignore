@@ -527,3 +527,8 @@
 !CreateML/md
 !CreateML/md/*
 
+!CreateMLComponents/
+!CreateMLComponents/finished_links.json
+!CreateMLComponents/md
+!CreateMLComponents/md/*
+
