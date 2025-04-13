@@ -867,3 +867,8 @@
 !LinkPresentation/md
 !LinkPresentation/md/*
 
+!LiveCommunicationKit/
+!LiveCommunicationKit/finished_links.json
+!LiveCommunicationKit/md
+!LiveCommunicationKit/md/*
+
