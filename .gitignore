@@ -242,3 +242,8 @@
 !Automator/md
 !Automator/md/*
 
+!AVFAudio/
+!AVFAudio/finished_links.json
+!AVFAudio/md
+!AVFAudio/md/*
+
