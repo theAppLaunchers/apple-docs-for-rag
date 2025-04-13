@@ -1422,3 +1422,8 @@
 !StoreKitTest/md
 !StoreKitTest/md/*
 
+!Swift/
+!Swift/finished_links.json
+!Swift/md
+!Swift/md/*
+
