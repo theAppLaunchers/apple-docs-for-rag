@@ -1012,3 +1012,8 @@
 !MetalPerformanceShadersGraph/md
 !MetalPerformanceShadersGraph/md/*
 
+!MetalFX/
+!MetalFX/finished_links.json
+!MetalFX/md
+!MetalFX/md/*
+
