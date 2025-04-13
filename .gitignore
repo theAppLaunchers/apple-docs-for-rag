@@ -1047,3 +1047,8 @@
 !MultipeerConnectivity/md
 !MultipeerConnectivity/md/*
 
+!MusicKit/
+!MusicKit/finished_links.json
+!MusicKit/md
+!MusicKit/md/*
+
