@@ -1,15 +1,18 @@
 # Apple Developer Documentation for RAG - Updated with WWDC 2026 content
 
-Last update: 21 July 2026
+This repo contains ALL the frameworks and their inner elements from Apple Developer Documentation, transcribed in markdown format.
 
-- Added new main frameworks and some inner classes/funcs
+This is a fork of: theAppLaunchers/apple-docs-for-rag
+
+which is a fork itself of: zhangyu1818/apple-docs-for-rag
 
 All the direct links of new framework, classes, structures, functions, properties added can be seen in a further list below the general one.
 
 All the new WWDC 2026 elements were copied manually, to ensure the highest quality possible.
 
-This is a fork of: theAppLaunchers/apple-docs-for-rag
-which is a fork itself of: zhangyu1818/apple-docs-for-rag
+#### Last update: 21 July 2026
+
+- Added new main frameworks and some inner classes/funcs in WWDC2026/api, +reorderable() in WWDC2026/updates
 
 #### **Content Organization**
 ```
