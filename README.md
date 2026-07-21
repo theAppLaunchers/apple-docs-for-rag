@@ -2,7 +2,7 @@
 
 Last update: 21 July 2026
 
-- Added new main frameworks and some inner classes
+- Added new main frameworks and some inner classes/funcs
 
 All the direct links of new framework, classes, structures, functions, properties added can be seen in a further list below the general one.
 
@@ -10,6 +10,13 @@ All the new WWDC 2026 elements were copied manually, to ensure the highest quali
 
 This is a fork of: theAppLaunchers/apple-docs-for-rag
 which is a fork itself of: zhangyu1818/apple-docs-for-rag
+
+#### **Content Organization**
+```
+WWDC2026/
+├── api/                 # completely new frameworks from WWDC 2026
+└── updates/            # new elements in pre-existing frameworks 
+```
 
 # Apple Documentation for RAG - Enhanced with WWDC 2025 Content (old description for remainder)
 
