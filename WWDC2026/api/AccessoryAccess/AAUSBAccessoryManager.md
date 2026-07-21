@@ -10,7 +10,7 @@ A class your app uses to manage USB accessories and the listener objects for tho
   
 macOS 27.0+  
   
-``` source  
+``` swift  
 class AAUSBAccessoryManager  
 ```  
   

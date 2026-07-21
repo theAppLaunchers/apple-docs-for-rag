@@ -43,7 +43,7 @@ Stacked images allow you to:
   
 Create a standalone disk image:  
   
-``` source  
+``` swift  
 import DiskImageKit  
   
   
@@ -63,7 +63,7 @@ import DiskImageKit
   
 Open any existing disk image (standalone or layer):  
   
-``` source  
+``` swift  
     let diskImage = try DiskImage(opening: .open(url: imageURL))  
   
   
@@ -80,7 +80,7 @@ Open any existing disk image (standalone or layer):
   
 Build a multi-layer disk image:  
   
-``` source  
+``` swift  
     // 1. Open an existing base image.  
     let baseImage = try DiskImage(opening: .open(url: baseImageURL))  
   
@@ -97,7 +97,7 @@ Build a multi-layer disk image:
   
 Pass the disk image - either a standalone image or a stack - to the Virtualization framework:  
   
-``` source  
+``` swift  
     import Virtualization  
     let storageAttachment = try VZDiskImageStorageDeviceAttachment(diskImage: diskImage)  
 ```  
@@ -106,7 +106,7 @@ Pass the disk image - either a standalone image or a stack - to the Virtualizati
   
 You can truncate or extend disk images (this does not resize the filesystem inside the image):  
   
-``` source  
+``` swift  
     let diskImage = try DiskImage(opening: .open(url: imageURL))  
       
     // Truncate to 80 GB (in 512-byte blocks).  
@@ -122,7 +122,7 @@ For stacked images, truncating affects the top layer, which determines the stack
   
 DiskImage objects provide various properties to inspect disk images:  
   
-``` source  
+``` swift  
 let diskImage = try DiskImage(opening: .open(url: imageURL))  
   
   

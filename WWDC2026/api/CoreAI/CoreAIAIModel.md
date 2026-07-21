@@ -11,7 +11,7 @@ A specialized model for running inference on a device.
   
 iOS 27.0+ iPadOS 27.0+ tvOS 27.0+ visionOS 27.0+ watchOS 27.0+  
   
-``` source  
+``` swift  
 struct AIModel  
 ```  
   

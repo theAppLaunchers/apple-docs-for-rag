@@ -11,7 +11,7 @@ The representation of an open disk image
   
 macOS 27.0+  
   
-``` source  
+``` swift  
 class DiskImage  
 ```  
   
@@ -23,7 +23,7 @@ An image can either be standalone or part of a stack. For more information on st
   
 The following example demonstrates how to create a stacked disk image with 3 layers:  
   
-``` source  
+``` swift  
 // Open the base image.  
 let baseImage = try DiskImage(opening: .open(url: baseImageURL))  
   
@@ -40,7 +40,7 @@ stackedImage = try stackedImage.appending(.asifLayer(url: overlayURL, type: .ove
   
 The example demonstrates how to create a standalone, 512 GB (1 billion block) ASIF disk image:  
   
-``` source  
+``` swift  
 _ = try DiskImage(creating: .asif(url: imageURL, blockCount: 1000000000, blockSize: .bytes512))  
 ```  
   

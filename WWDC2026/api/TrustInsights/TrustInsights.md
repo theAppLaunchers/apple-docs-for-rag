@@ -59,7 +59,7 @@ A context that describes what kind of action someone is attempting to perform. F
   
 In order to request evaluations, you need to first request a person’s permission to use the Trust Insights framework. The following example demonstrates how to check your app’s authorization status and request a person’s authorization, provided a person hasn’t previously declined an authorization request.  
   
-``` source  
+``` swift  
     /// Returns `true` if a person has authorized use of Trust Insights,  otherwise `false`.  
     func requestUserAuthorizationIfNeeded(context: InsightEvaluator.InsightContext) async -> Bool{  
         do {  
@@ -88,7 +88,7 @@ In order to request evaluations, you need to first request a person’s permissi
   
 The result of a Trust Insight evaluation can help you determine if you should perform further checks before finalizing a transaction. The following example shows a function that returns a Boolean value indicating whether the framework indicates there are no indications of coaching.  
   
-``` source  
+``` swift  
 func shouldBypassCheckX() async -> Bool {  
     do {  
         let requestedAssessment = IsLikelyBeingCoachedInsight.request(schema: .version1)  

@@ -11,7 +11,7 @@ A local Now Playing session that publishes metadata and commands to the system.
   
 iOS 27.0+ iPadOS 27.0+ Mac Catalyst 27.0+ macOS 27.0+ tvOS 27.0+ visionOS 27.0+ watchOS 27.0+  
   
-``` source  
+``` swift  
 @MainActor  
 class MediaSession<Representable> where Representable : MediaSessionRepresentable  
 ```  
@@ -28,13 +28,13 @@ For more information, see Publishing media sessions
   
 Create a session by providing a session representable:  
   
-``` source  
+``` swift  
 let session = MediaSession(myModel)  
 ```  
   
 Call requestToBecomeApplicationPrimary() to make this your app’s primary Now Playing session when you want to display playback controls:  
   
-``` source  
+``` swift  
 try await session.requestToBecomeApplicationPrimary()  
 ```  
   

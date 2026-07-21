@@ -10,7 +10,7 @@ A class that represents a USB accessory.
   
 macOS 27.0  
   
-``` source  
+``` swift 
 class AAUSBAccessory  
 ```  
   

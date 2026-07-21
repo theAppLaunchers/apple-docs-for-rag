@@ -19,7 +19,7 @@ You implement your handler by writing an app extension that conforms to the Cras
   
 As with all app extensions, your extension’s bundle identifier must be a child of the main app identifier. For example, for an app with bundle ID com.example.myapp, a crash reporter extension might use the identifiers com.example.myapp.crash-handler or com.example.myapp.analytics.crashes. In addition, your extension’s information property list needs to declare the extension point, as follows:  
   
-``` source  
+``` xml  
 <dict>  
     <key>EXAppExtensionAttributes</key>  
     <dict>  
