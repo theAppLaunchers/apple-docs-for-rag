@@ -1,8 +1,8 @@
-# Apple Documentation for RAG - Updated with WWDC 2026 content
+# Apple Developer Documentation for RAG - Updated with WWDC 2026 content
 
 Last update: 21 July 2026
 
-- Added new main frameworks and some classes
+- Added new main frameworks and some inner classes
 
 All the direct links of new framework, classes, structures, functions, properties added can be seen in a further list below the general one.
 
