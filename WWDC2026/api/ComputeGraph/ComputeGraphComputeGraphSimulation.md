@@ -1,7 +1,5 @@
-ComputeGraph/ComputeGraphSimulation  
-  
 - ComputeGraph  
--  ComputeGraph.ComputeGraphSimulation  
+- ComputeGraphSimulation  
   
 Class  
   

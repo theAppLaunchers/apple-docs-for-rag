@@ -1,7 +1,5 @@
-# TrustInsights  
-  
 - TrustInsights  
--  Trust Insights  
+- Trust Insights  
   
 Framework  
   

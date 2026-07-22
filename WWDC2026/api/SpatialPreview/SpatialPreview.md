@@ -1,7 +1,5 @@
-# SpatialPreview  
-  
 - SpatialPreview  
--  Spatial Preview  
+- Spatial Preview  
   
 Framework  
   

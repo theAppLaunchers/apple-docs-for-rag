@@ -1,7 +1,5 @@
-# DiskImageKit/DiskImage  
-  
 - DiskImageKit  
--  DiskImageKit.DiskImage  
+- DiskImage  
   
 Class  
   

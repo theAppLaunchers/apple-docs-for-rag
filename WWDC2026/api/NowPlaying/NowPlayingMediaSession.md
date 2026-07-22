@@ -1,7 +1,5 @@
-# NowPlaying/MediaSession  
-  
 - NowPlaying  
--  NowPlaying.MediaSession  
+- MediaSession  
   
 Class  
   

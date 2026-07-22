@@ -1,7 +1,5 @@
-# NowPlaying  
-  
 - NowPlaying  
--  Now Playing  
+- Now Playing  
   
 Framework  
   

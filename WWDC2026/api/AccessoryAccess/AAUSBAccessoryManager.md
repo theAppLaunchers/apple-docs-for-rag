@@ -1,6 +1,6 @@
   
 - AccessoryAccess  
--  AAUSBAccessoryManager  
+- AAUSBAccessoryManager  
   
 Class  
   

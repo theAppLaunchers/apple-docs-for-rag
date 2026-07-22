@@ -1,7 +1,5 @@
-# SuggestedActions  
-  
 - SuggestedActions  
--  Suggested Actions  
+- Suggested Actions  
   
 Framework  
   

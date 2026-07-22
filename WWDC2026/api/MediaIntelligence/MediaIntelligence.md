@@ -1,7 +1,5 @@
-# MediaIntelligence  
-  
 - MediaIntelligence  
--  Media Intelligence  
+- Media Intelligence  
   
 Framework  
   

@@ -1,7 +1,5 @@
-# Core AI  
-  
 - CoreAI  
--  Core AI  
+- Core AI  
   
 Framework  
   

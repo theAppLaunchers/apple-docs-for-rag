@@ -1,11 +1,9 @@
-# USDKit  
-  
 - USDKit  
--  USDKit  
+- USDKit  
   
 Framework  
   
-USDKit  
+# USDKit  
   
 Author, compose, and manipulate Universal Scene Description content from Swift.  
   

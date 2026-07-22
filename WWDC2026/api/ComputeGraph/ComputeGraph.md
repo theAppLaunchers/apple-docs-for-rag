@@ -1,7 +1,5 @@
-ComputeGraph  
-  
 - ComputeGraph  
--  Compute Graph  
+- Compute Graph  
   
 Framework  
   

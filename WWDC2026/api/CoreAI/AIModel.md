@@ -1,7 +1,5 @@
-# CoreAI/AIModel  
-  
 - CoreAI  
--  CoreAI.AIModel  
+- AIModel  
   
 Structure  
   

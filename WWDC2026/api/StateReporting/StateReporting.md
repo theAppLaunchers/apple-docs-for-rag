@@ -1,7 +1,5 @@
-# StateReporting  
-  
 - StateReporting  
--  StateReporting  
+- StateReporting  
   
 Framework  
   

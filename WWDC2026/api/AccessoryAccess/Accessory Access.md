@@ -1,15 +1,13 @@
-AccessoryAccess  
-  
 - AccessoryAccess  
--  Accessory Access  
-#   
+- Accessory Access  
+
 Framework  
   
 # Accessory Access  
   
 Manage access to connected USB accessories.  
   
-macOS 27.0+  
+macOS 27.0+
   
 ## Topics  
   
