@@ -1,0 +1,103 @@
+- SwiftUI
+- ShareLink
+
+Structure
+
+# ShareLink
+
+A view that controls a sharing presentation.
+
+iOS 16.0+ iPadOS 16.0+ Mac Catalyst 16.0+ macOS 13.0+ visionOS 1.0+ watchOS 9.0+
+
+```swift
+nonisolated
+struct ShareLink<Data, PreviewImage, PreviewIcon, Label> where Data : RandomAccessCollection, PreviewImage : Transferable, PreviewIcon : Transferable, Label : View, Data.Element : Transferable
+```
+
+
+## Overview
+
+People tap or click on a share link to present a share interface. The link typically uses a system-standard appearance; you only need to supply the content to share:
+ShareLink(item: URL(string: "https://developer.apple.com/xcode/swiftui/")!)
+You can control the appearance of the link by providing view content. For example, you can use a Label to display a link with a custom icon:
+
+```swift
+ShareLink(item: URL(string: "https://developer.apple.com/xcode/swiftui/")!) {
+    Label("Share", image: "MyCustomShareIcon")
+}
+```
+
+If you only wish to customize the link’s title, you can use one of the convenience initializers that takes a string and creates a Label for you:
+
+```swift
+ShareLink("Share URL", item: URL(string: "https://developer.apple.com/xcode/swiftui/")!)
+```
+
+The link can share any content that is Transferable. Many framework types, like URL, already conform to this protocol. You can also make your own types transferable.
+For example, you can use ProxyRepresentation to resolve your own type to a framework type:
+
+```swift
+struct Photo: Transferable {
+    static var transferRepresentation: some TransferRepresentation {
+        ProxyRepresentation(\.image)
+    }
+
+
+    public var image: Image
+    public var caption: String
+}
+
+
+struct PhotoView: View {
+    let photo: Photo
+
+
+    var body: some View {
+        photo.image
+            .toolbar {
+                ShareLink(
+                    item: photo,
+                    preview: SharePreview(
+                        photo.caption,
+                        image: photo.image))
+            }
+    }
+}
+```
+
+Sometimes the content that your app shares isn’t immediately available. You can use FileRepresentation or DataRepresentation when you need an asynchronous operation, like a network request, to retrieve and prepare the content.
+
+Note that some applications offer their sharing service for files, but not for a wide range of different data types, for example, Mail.app, Notes.app, Messages.app or AirDrop. If you don’t see a particular sharing service in the presented ShareLink, try adding a FileRepresentation to the type’s Transferable conformance.
+
+A Transferable type also lets you provide multiple content types for a single shareable item. The share interface shows relevant sharing services based on the types that you provide.
+The previous example also shows how you provide a preview of your content to show in the share interface.
+
+A preview isn’t required when sharing URLs or non-attributed strings. When sharing these types of content, the system can automatically determine a preview.
+
+You can provide a preview even when it’s optional. For instance, when sharing URLs, the automatic preview first shows a placeholder link icon alongside the base URL while fetching the link’s metadata over the network. The preview updates once the link’s icon and title become available. If you provide a preview instead, the preview appears immediately without fetching data over the network.
+
+Some share activities support subject and message fields. You can pre-populate these fields with the subject and message parameters:
+
+```swift
+ShareLink(
+    item: photo,
+    subject: Text("Cool Photo"),
+    message: Text("Check it out!"),
+    preview: SharePreview(
+        photo.caption,
+        image: photo.image))
+```
+
+## Topics
+
+...
+
+## Relationships
+
+### Conforms To
+
+View
+
+## See Also
+
+...

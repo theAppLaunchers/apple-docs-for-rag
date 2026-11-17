@@ -1,4 +1,27 @@
-# Apple Documentation for RAG - Enhanced with WWDC 2025 Content
+# Apple Developer Documentation for RAG - Updated with WWDC 2026 content
+
+This repo contains ALL the frameworks and their inner elements from Apple Developer Documentation, transcribed in markdown format.
+
+This is a fork of: theAppLaunchers/apple-docs-for-rag
+
+which is a fork itself of: zhangyu1818/apple-docs-for-rag
+
+All the direct links of new framework, classes, structures, functions, properties added can be seen in a further list below the general one.
+
+All the new WWDC 2026 elements were copied manually, to ensure the highest quality possible.
+
+#### Last update: 21 July 2026
+
+- Added new main frameworks and some inner classes/funcs in WWDC2026/api, +reorderable() in WWDC2026/updates
+
+#### **Content Organization**
+```
+WWDC2026/
+├── api/                 # completely new frameworks from WWDC 2026
+└── updates/            # new elements in pre-existing frameworks 
+```
+
+# Apple Documentation for RAG - Enhanced with WWDC 2025 Content (old description for remainder)
 
 ## 🎉 Latest Addition: WWDC 2025 Comprehensive Documentation
 
@@ -407,5 +430,36 @@ The repository also contains comprehensive documentation for all major Apple fra
   "https://developer.apple.com/documentation/OpenGLES",
   "https://developer.apple.com/documentation/TVMLKit",
   "https://developer.apple.com/documentation/tvmljs"
+]
+```
+
+---
+
+## New links from WWDC 2026 and iOS/iPadOS/macOS/watchOS/visionOS 27:
+
+```json
+[
+"https://developer.apple.com/documentation/AccessoryAccess",
+"https://developer.apple.com/documentation/accessoryaccess/aausbaccessory",
+"https://developer.apple.com/documentation/accessoryaccess/aausbaccessorymanager",
+"https://developer.apple.com/documentation/AppIntentsTesting",
+"https://developer.apple.com/documentation/AVSystemRouting",
+"https://developer.apple.com/documentation/ComputeGraph",
+"https://developer.apple.com/documentation/computegraph/computegraphsimulation",
+"https://developer.apple.com/documentation/CoreAI",
+"https://developer.apple.com/documentation/coreai/aimodel",
+"https://developer.apple.com/documentation/CrashReportExtension",
+"https://developer.apple.com/documentation/DiskImageKit",
+"https://developer.apple.com/documentation/diskimagekit/diskimage",
+"https://developer.apple.com/documentation/Evaluations",
+"https://developer.apple.com/documentation/MediaDevice",
+"https://developer.apple.com/documentation/MediaIntelligence",
+"https://developer.apple.com/documentation/NowPlaying",
+"https://developer.apple.com/documentation/nowplaying/mediasession",
+"https://developer.apple.com/documentation/SpatialPreview",
+"https://developer.apple.com/documentation/StateReporting",
+"https://developer.apple.com/documentation/SuggestedActions",
+"https://developer.apple.com/documentation/TrustInsights",
+"https://developer.apple.com/documentation/USDKit"
 ]
 ```
